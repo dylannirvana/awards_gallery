@@ -1,18 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
-import Gallery from "react-photo-gallery";
-import { photos } from "./photos";
+import Grid from './Grid';
 
 
 function App() {
-  const BasicRows = () => <Gallery photos={photos} />;
-
   return (
-    <div className="App">
-
-      <BasicRows />
-
+   <div className='outerContainer'>
+     <div className='innerContainer'>
+      <div className="App">
+      <Grid />
     </div>
+   </div>
+   </div>
   );
 }
 

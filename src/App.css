@@ -2,7 +2,24 @@
   text-align: center;
 }
 
-.App-logo {
+/* TO CONTROL GRID */
+/* This kind of thing doesn't work */
+/* div img {
+  margin: 5px !important;
+} */
+
+.innerContainer {
+  background-color: whitesmoke;
+  padding: 2px;;
+}
+
+.outerContainer {
+  /* background-color: #1a0f1f; */
+  background: linear-gradient(to bottom, #1a0f1f 0%, #280d3d 100%);
+  padding: 100px;;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -36,3 +53,5 @@
     transform: rotate(360deg);
   }
 }
+
+ */
