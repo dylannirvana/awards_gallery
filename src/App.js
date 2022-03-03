@@ -1,5 +1,6 @@
 import './App.css';
-import Grid from './Grid';
+// import Grid from './Grid';
+import Lightbox from './Lightbox';
 
 
 function App() {
@@ -7,10 +8,11 @@ function App() {
    <div className='outerContainer'>
      <div className='innerContainer'>
       <div className="App">
-      <Grid />
+        {/* <Grid /> */}
+        <Lightbox />
+        </div>
+      </div>
     </div>
-   </div>
-   </div>
   );
 }
 
