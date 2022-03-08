@@ -1,9 +1,11 @@
 import React, { useState, useCallback } from "react";
 import Gallery from "react-photo-gallery";
 import Carousel, { Modal, ModalGateway } from "react-images";
-import { photos } from "./photos";
+import { photos } from "./photos_asteroids";
+import { Link } from 'react-router-dom'
 
-function Lightbox() {
+
+function Asteroids() {
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
 
@@ -19,6 +21,7 @@ function Lightbox() {
 
   return (
     <div>
+      <Link to="/">Home</Link>
       <Gallery photos={photos} direction={"row"} onClick={openLightbox} />
       <ModalGateway>
         {viewerIsOpen ? (
@@ -37,4 +40,4 @@ function Lightbox() {
     </div>
   );
 }
-export default Lightbox;
+export default Asteroids;

@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -8,16 +9,25 @@
   margin: 5px !important;
 } */
 
-.innerContainer {
+  
+div.col {
+  color: black;
+  background-color: pink;
+  padding: 14px !important;
+  /* border: 24px !important; */
+  border-color: blue !important;
+  margin: 4px;
+}
+
+/* .innerContainer {
   background-color: pink;
   padding: 2px;;
-} 
+}  */
 
-.outerContainer {
-  /* background-color: #1a0f1f; */
+/* .outerContainer {
   background: linear-gradient(to bottom, #1a0f1f 0%, #280d3d 100%);
   padding: 100px;;
-}
+} */
 
 /* This controls the caption */
 div.react-images__footer {
@@ -29,6 +39,12 @@ div.react-images__footer {
 
 .footerCaption {
   background-color: blue;
+}
+
+.row {
+  border: 2px;
+  border-color: white;
+  margin: 4px;
 }
 
 /* .App-logo {

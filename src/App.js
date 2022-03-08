@@ -1,6 +1,7 @@
+// import './App.scss';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-// import Grid from './Grid';
-import Lightbox from './Lightbox';
+import Grid from './Grid';
 
 
 function App() {
@@ -8,8 +9,7 @@ function App() {
    <div className='outerContainer'>
       <div className='innerContainer'>
       <div className="App">
-        {/* <Grid /> */}
-        <Lightbox />
+        <Grid />
         </div>
        </div>
      </div>

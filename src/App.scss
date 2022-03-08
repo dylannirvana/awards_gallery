@@ -1,0 +1,39 @@
+@import "~bootstrap/scss/bootstrap";
+
+// App {
+//     text-align: center;
+//   }
+  
+  /* TO CONTROL GRID */
+  /* This kind of thing doesn't work */
+  /* div img {
+    margin: 5px !important;
+  } */
+  
+  .innerContainer {
+    background-color: pink;
+    padding: 2px;;
+  } 
+  
+  .outerContainer {
+    /* background-color: #1a0f1f; */
+    background: linear-gradient(to bottom, #1a0f1f 0%, #280d3d 100%);
+    padding: 100px;;
+  }
+  
+  /* This controls the caption */
+  div.react-images__footer {
+    background: gray !important;
+    color: white;
+    font-size: 16px;
+    justify-content: center;
+  }
+  
+  
+  div.col {
+    color: white;
+    padding: 14px;
+    border: 2em;
+    border-color: white;
+    margin: 4px;
+  }
