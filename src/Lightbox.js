@@ -19,7 +19,7 @@ function Lightbox() {
 
   return (
     <div>
-      <Gallery photos={photos} direction={"column"} onClick={openLightbox} />
+      <Gallery photos={photos} direction={"row"} onClick={openLightbox} />
       <ModalGateway>
         {viewerIsOpen ? (
           <Modal onClose={closeLightbox}>
