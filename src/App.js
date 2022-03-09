@@ -1,18 +1,23 @@
 // import './App.scss';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import Footer from './Footer';
 import Grid from './Grid';
+import Header from './Header';
 
 
 function App() {
   return (
-   <div className='outerContainer'>
-      <div className='innerContainer'>
+  <div>
+     <div className='outerContainer'>
+     <Header />
       <div className="App">
         <Grid />
-        </div>
        </div>
-     </div>
+    </div>
+    <Footer />
+
+  </div>
   );
 }
 
