@@ -7,12 +7,32 @@ function Grid() {
   return (
     <Container className='gridContainer'>
   <Row>   
-    <Col> <Link to="/planets"><img src="http://fpoimg.com/150x150" /></Link> </Col>
-    <Col> <Link to="/moons"><img src="http://fpoimg.com/150x150" /></Link> </Col>
+    <Col> 
+      <div>
+        <h6>New Arrivals</h6>
+        <Link to="/planets"><img src="https://source.unsplash.com/PpOHJezOalU/800x599" /></Link> 
+      </div>
+    </Col>
+    <Col> 
+      <div>
+        <h6>Red Carpet</h6>
+        <Link to="/planets"><img src="https://source.unsplash.com/I1ASdgphUH4/800x599" /></Link> 
+      </div>
+    </Col>
   </Row>
   <Row>
-    <Col> <Link to="/asteroids"><img src="http://fpoimg.com/150x150" /></Link> </Col>
-    <Col> <Link to="/planetids"><img src="http://fpoimg.com/150x150" /></Link> </Col>
+  <Col> 
+      <div>
+        <h6>Aerials</h6>
+        <Link to="/planets"><img src="https://source.unsplash.com/x8xJpClTvR0/800x599" /></Link> 
+      </div>
+    </Col>
+    <Col> 
+      <div>
+        <h6>Subterrainian</h6>
+        <Link to="/planets"><img src="https://source.unsplash.com/qGQNmBE7mYw/800x599" /></Link> 
+      </div>
+    </Col>
   </Row>
   <Row>
     <Blurb />
