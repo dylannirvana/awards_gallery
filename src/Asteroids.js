@@ -3,6 +3,7 @@ import Gallery from "react-photo-gallery";
 import Carousel, { Modal, ModalGateway } from "react-images";
 import { photos } from "./photos_asteroids";
 import { Link } from 'react-router-dom'
+import Footer from "./Footer";
 
 
 function Asteroids() {
@@ -21,7 +22,8 @@ function Asteroids() {
 
   return (
     <div>
-      <Link to="/">Home</Link>
+      <div className="galleryContainer">
+      <Link to="/">Back to Home Page</Link>
       <Gallery photos={photos} direction={"row"} onClick={openLightbox} />
       <ModalGateway>
         {viewerIsOpen ? (
@@ -37,6 +39,8 @@ function Asteroids() {
           </Modal>
         ) : null}
       </ModalGateway>
+    </div>
+    <Footer />
     </div>
   );
 }

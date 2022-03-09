@@ -3,6 +3,7 @@ import Gallery from "react-photo-gallery";
 import Carousel, { Modal, ModalGateway } from "react-images";
 import { photos } from "./photos_planets";
 import { Link } from 'react-router-dom'
+import Footer from "./Footer";
 
 function Planets() {
   const [currentImage, setCurrentImage] = useState(0);
@@ -20,23 +21,26 @@ function Planets() {
 
   return (
     <div>
-      <Link to="/">Home</Link>
+      <div className="galleryContainer">
+      <Link to="/">Back to Home Page</Link>
       <Gallery photos={photos} direction={"row"} onClick={openLightbox} />
-      <ModalGateway>
-        {viewerIsOpen ? (
-          <Modal onClose={closeLightbox}>
-            <Carousel
-              currentIndex={currentImage}
-              views={photos.map(x => ({
-                ...x,
-                srcset: x.srcSet,
-                caption: x.title
-              }))}
-            />
-          </Modal>
-        ) : null}
-      </ModalGateway>
+        <ModalGateway >
+          {viewerIsOpen ? (
+            <Modal onClose={closeLightbox}>
+              <Carousel
+                currentIndex={currentImage}
+                views={photos.map(x => ({
+                  ...x,
+                  srcset: x.srcSet,
+                  caption: x.title
+                }))}
+              />
+            </Modal>
+          ) : null}
+        </ModalGateway>
     </div>
+    <Footer />
+  </div>
   );
 }
 export default Planets;
