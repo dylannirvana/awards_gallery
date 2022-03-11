@@ -4,6 +4,7 @@ import './App.css';
 import Footer from './Footer';
 import Grid from './Grid';
 import Header from './Header';
+import Parse from './parse';
 
 
 function App() {
@@ -12,9 +13,10 @@ function App() {
      <div className='outerContainer'>
      <Header />
       <div className="App">
-        <Grid />
+        {/* <Grid /> */}
        </div>
     </div>
+    <Parse />
     <Footer />
 
   </div>

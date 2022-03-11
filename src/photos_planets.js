@@ -3,7 +3,7 @@ export const photos = [
       src: "https://source.unsplash.com/epcsn8Ed8kY/600x799",
       width: 3,
       height: 4,
-      title: "Lorem ipsum dolor sit amet"
+      title: "BMI’s Clay Bradley and Del Bryant, Miranda Lambert, and BMI’s Jody Williams pose on the red carpet at the BMI Country Awards. "
     },
     {
       src: "https://source.unsplash.com/NQSWvyVRIJk/800x599",
