@@ -1,0 +1,1 @@
+"[\n    {\n        \"name\": \"MySQL\",\n        \"type\": \"RDBMS\"\n    },\n    {\n        \"name\": \"MongoDB\",\n        \"type\": \"NoSQL\"\n    },\n    {\n        \"name\": \"Neo4j\",\n        \"type\": \"Graph DB\"\n    }\n]"
