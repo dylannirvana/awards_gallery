@@ -1,78 +1,36 @@
 export const photos = [
     {
-      src: "https://source.unsplash.com/epcsn8Ed8kY/600x799",
-      width: 3,
+      src: "https://cdn.bcms.app/uploads/medium_latin_2021_gallery_Photo_5_1994_0034_7e3b73d19b.jpg",
+      width: 4,
       height: 4,
-      title: "BMI’s Clay Bradley and Del Bryant, Miranda Lambert, and BMI’s Jody Williams pose on the red carpet at the BMI Country Awards. "
+      title: "Gloria and Emilio Estefan together at the 1994 BMI Latin Awards."
     },
     {
-      src: "https://source.unsplash.com/NQSWvyVRIJk/800x599",
+      src: "https://cdn.bcms.app/uploads/medium_latin_2021_gallery_Photo_2_1994_0012_b7eebae562.jpg",
       width: 4,
       height: 3,
-      title: "Lorem ipsum dolor sit amet"
+      title: "Former BMI President and CEO Frances Preston and Adolfo Angel (2nd from left) with BMI guests at the 1994 BMI Latin Awards."
     },
     {
-      src: "https://source.unsplash.com/zh7GEuORbUw/600x799",
-      width: 3,
-      height: 4,
-      title: "Lorem ipsum dolor sit amet"
-    },
-    {
-      src: "https://source.unsplash.com/PpOHJezOalU/800x599",
-      width: 4,
-      height: 3,
-      title: "Lorem ipsum dolor sit amet"
-    },
-    {
-      src: "https://source.unsplash.com/I1ASdgphUH4/800x599",
-      width: 4,
-      height: 3,
-      title: "Lorem ipsum dolor sit amet"
-    },
-    {
-      src: "https://source.unsplash.com/XiDA78wAZVw/600x799",
+      src: "https://cdn.bcms.app/uploads/medium_arrivals1_220673a90f.jpg",
       width: 3,
       height: 4,
       title: "Lorem ipsum dolor sit amet"
     },
     {
-      src: "https://source.unsplash.com/x8xJpClTvR0/800x599",
+      src: "https://cdn.bcms.app/uploads/medium_arrivals2_c5d28f3d2c.jpg",
       width: 4,
       height: 3,
       title: "Lorem ipsum dolor sit amet"
     },
     {
-      src: "https://source.unsplash.com/u9cG4cuJ6bU/4927x1000",
-      width: 4927,
-      height: 1000,
-      title: "Lorem ipsum dolor sit amet"
-    },
-    {
-      src: "https://source.unsplash.com/qGQNmBE7mYw/800x599",
+      src: "https://cdn.bcms.app/uploads/medium_awards1_a9ea1a3a7a.jpg",
       width: 4,
       height: 3,
       title: "Lorem ipsum dolor sit amet"
     },
     {
-      src: "https://source.unsplash.com/NuO6iTBkHxE/800x599",
-      width: 4,
-      height: 3,
-      title: "Lorem ipsum dolor sit amet"
-    },
-    {
-      src: "https://source.unsplash.com/pF1ug8ysTtY/600x400",
-      width: 4,
-      height: 3,
-      title: "Lorem ipsum dolor sit amet"
-    },
-    {
-      src: "https://source.unsplash.com/A-fubu9QJxE/800x533",
-      width: 4,
-      height: 3,
-      title: "Lorem ipsum dolor sit amet"
-    },
-    {
-      src: "https://source.unsplash.com/5P91SF0zNsI/740x494",
+      src: "https://cdn.bcms.app/uploads/medium_awards2_e1cb163862.jpg",
       width: 4,
       height: 3,
       title: "Lorem ipsum dolor sit amet"

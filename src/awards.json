@@ -1,0 +1,426 @@
+{
+  "name": "2022 BMI Latin Awards Courtesy Gallery",
+  "description": null,
+  "meta_key": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-11T17:36:49.000Z",
+  "updated_at": "2022-03-11T17:37:19.000Z",
+  "image_set": null,
+  "image_sets": [
+    {
+      "name": "Latin 2022 Courtesy Gallery: Arrivals",
+      "description": "Arrivals",
+      "meta_key": null,
+      "created_by": 1,
+      "updated_by": 1,
+      "created_at": "2022-03-11T17:36:36.000Z",
+      "updated_at": "2022-03-11T17:36:37.000Z",
+      "slide_show": null,
+      "image_with_text": [
+        {
+          "text": null,
+          "image": {
+            "name": "arrivals1.jpg",
+            "alternativeText": "",
+            "caption": "",
+            "width": 1280,
+            "height": 1920,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_arrivals1.jpg",
+                "hash": "thumbnail_arrivals1_220673a90f",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 104,
+                "height": 156,
+                "size": 9.46,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/thumbnail_arrivals1_220673a90f.jpg"
+              },
+              "large": {
+                "name": "large_arrivals1.jpg",
+                "hash": "large_arrivals1_220673a90f",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 667,
+                "height": 1000,
+                "size": 68.55,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/large_arrivals1_220673a90f.jpg"
+              },
+              "medium": {
+                "name": "medium_arrivals1.jpg",
+                "hash": "medium_arrivals1_220673a90f",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 500,
+                "height": 750,
+                "size": 45.49,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/medium_arrivals1_220673a90f.jpg"
+              },
+              "small": {
+                "name": "small_arrivals1.jpg",
+                "hash": "small_arrivals1_220673a90f",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 333,
+                "height": 500,
+                "size": 27.25,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/small_arrivals1_220673a90f.jpg"
+              }
+            },
+            "url": "https://cdn.bcms.app/uploads/arrivals1_220673a90f.jpg",
+            "previewUrl": null,
+            "provider_metadata": null,
+            "created_by": 1,
+            "updated_by": 1,
+            "created_at": "2022-03-11T17:36:20.000Z",
+            "updated_at": "2022-03-11T17:36:20.000Z"
+          }
+        },
+        {
+          "text": null,
+          "image": {
+            "name": "arrivals2.jpg",
+            "alternativeText": "",
+            "caption": "",
+            "width": 1920,
+            "height": 1280,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_arrivals2.jpg",
+                "hash": "thumbnail_arrivals2_c5d28f3d2c",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 234,
+                "height": 156,
+                "size": 13.4,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/thumbnail_arrivals2_c5d28f3d2c.jpg"
+              },
+              "large": {
+                "name": "large_arrivals2.jpg",
+                "hash": "large_arrivals2_c5d28f3d2c",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 1000,
+                "height": 667,
+                "size": 83.02,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/large_arrivals2_c5d28f3d2c.jpg"
+              },
+              "medium": {
+                "name": "medium_arrivals2.jpg",
+                "hash": "medium_arrivals2_c5d28f3d2c",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 750,
+                "height": 500,
+                "size": 54.73,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/medium_arrivals2_c5d28f3d2c.jpg"
+              },
+              "small": {
+                "name": "small_arrivals2.jpg",
+                "hash": "small_arrivals2_c5d28f3d2c",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 500,
+                "height": 333,
+                "size": 32.08,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/small_arrivals2_c5d28f3d2c.jpg"
+              }
+            },
+            "url": "https://cdn.bcms.app/uploads/arrivals2_c5d28f3d2c.jpg",
+            "previewUrl": null,
+            "provider_metadata": null,
+            "created_by": 1,
+            "updated_by": 1,
+            "created_at": "2022-03-11T17:36:32.000Z",
+            "updated_at": "2022-03-11T17:36:32.000Z"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin 2022 Courtesy Gallery: Awards",
+      "description": "Awards",
+      "meta_key": null,
+      "created_by": 1,
+      "updated_by": 1,
+      "created_at": "2022-03-11T17:38:56.000Z",
+      "updated_at": "2022-03-11T17:38:56.000Z",
+      "slide_show": null,
+      "image_with_text": [
+        {
+          "text": null,
+          "image": {
+            "name": "awards1.jpg",
+            "alternativeText": "",
+            "caption": "",
+            "width": 1920,
+            "height": 1280,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_awards1.jpg",
+                "hash": "thumbnail_awards1_a9ea1a3a7a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 234,
+                "height": 156,
+                "size": 14.89,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/thumbnail_awards1_a9ea1a3a7a.jpg"
+              },
+              "large": {
+                "name": "large_awards1.jpg",
+                "hash": "large_awards1_a9ea1a3a7a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 1000,
+                "height": 667,
+                "size": 131.91,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/large_awards1_a9ea1a3a7a.jpg"
+              },
+              "medium": {
+                "name": "medium_awards1.jpg",
+                "hash": "medium_awards1_a9ea1a3a7a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 750,
+                "height": 500,
+                "size": 83.11,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/medium_awards1_a9ea1a3a7a.jpg"
+              },
+              "small": {
+                "name": "small_awards1.jpg",
+                "hash": "small_awards1_a9ea1a3a7a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 500,
+                "height": 333,
+                "size": 44.72,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/small_awards1_a9ea1a3a7a.jpg"
+              }
+            },
+            "url": "https://cdn.bcms.app/uploads/awards1_a9ea1a3a7a.jpg",
+            "previewUrl": null,
+            "provider_metadata": null,
+            "created_by": 1,
+            "updated_by": 1,
+            "created_at": "2022-03-11T17:38:37.000Z",
+            "updated_at": "2022-03-11T17:38:37.000Z"
+          }
+        },
+        {
+          "text": null,
+          "image": {
+            "name": "awards2.jpg",
+            "alternativeText": "",
+            "caption": "",
+            "width": 1920,
+            "height": 1280,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_awards2.jpg",
+                "hash": "thumbnail_awards2_e1cb163862",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 234,
+                "height": 156,
+                "size": 12.07,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/thumbnail_awards2_e1cb163862.jpg"
+              },
+              "large": {
+                "name": "large_awards2.jpg",
+                "hash": "large_awards2_e1cb163862",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 1000,
+                "height": 667,
+                "size": 62.87,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/large_awards2_e1cb163862.jpg"
+              },
+              "medium": {
+                "name": "medium_awards2.jpg",
+                "hash": "medium_awards2_e1cb163862",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 750,
+                "height": 500,
+                "size": 43.3,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/medium_awards2_e1cb163862.jpg"
+              },
+              "small": {
+                "name": "small_awards2.jpg",
+                "hash": "small_awards2_e1cb163862",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 500,
+                "height": 333,
+                "size": 26.05,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/small_awards2_e1cb163862.jpg"
+              }
+            },
+            "url": "https://cdn.bcms.app/uploads/awards2_e1cb163862.jpg",
+            "previewUrl": null,
+            "provider_metadata": null,
+            "created_by": 1,
+            "updated_by": 1,
+            "created_at": "2022-03-11T17:38:53.000Z",
+            "updated_at": "2022-03-11T17:38:53.000Z"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Latin 2022 Courtesy Gallery: Performances",
+      "description": "Performances",
+      "meta_key": null,
+      "created_by": 1,
+      "updated_by": 1,
+      "created_at": "2022-03-11T17:39:26.000Z",
+      "updated_at": "2022-03-11T17:40:41.000Z",
+      "slide_show": null,
+      "image_with_text": [
+        {
+          "text": null,
+          "image": {
+            "name": "performances1.jpg",
+            "alternativeText": "",
+            "caption": "",
+            "width": 1920,
+            "height": 1278,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_performances1.jpg",
+                "hash": "thumbnail_performances1_e1b5f12e88",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 234,
+                "height": 156,
+                "size": 11.12,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/thumbnail_performances1_e1b5f12e88.jpg"
+              },
+              "large": {
+                "name": "large_performances1.jpg",
+                "hash": "large_performances1_e1b5f12e88",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 1000,
+                "height": 666,
+                "size": 62.68,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/large_performances1_e1b5f12e88.jpg"
+              },
+              "medium": {
+                "name": "medium_performances1.jpg",
+                "hash": "medium_performances1_e1b5f12e88",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 750,
+                "height": 499,
+                "size": 41.62,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/medium_performances1_e1b5f12e88.jpg"
+              },
+              "small": {
+                "name": "small_performances1.jpg",
+                "hash": "small_performances1_e1b5f12e88",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 500,
+                "height": 333,
+                "size": 24.95,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/small_performances1_e1b5f12e88.jpg"
+              }
+            },
+            "url": "https://cdn.bcms.app/uploads/performances1_e1b5f12e88.jpg",
+            "previewUrl": null,
+            "provider_metadata": null,
+            "created_by": 1,
+            "updated_by": 1,
+            "created_at": "2022-03-11T17:40:37.000Z",
+            "updated_at": "2022-03-11T17:40:37.000Z"
+          }
+        },
+        {
+          "text": null,
+          "image": {
+            "name": "performances2.jpg",
+            "alternativeText": "",
+            "caption": "",
+            "width": 1920,
+            "height": 1280,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_performances2.jpg",
+                "hash": "thumbnail_performances2_1db1f1bef0",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 234,
+                "height": 156,
+                "size": 11.7,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/thumbnail_performances2_1db1f1bef0.jpg"
+              },
+              "large": {
+                "name": "large_performances2.jpg",
+                "hash": "large_performances2_1db1f1bef0",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 1000,
+                "height": 667,
+                "size": 78.85,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/large_performances2_1db1f1bef0.jpg"
+              },
+              "medium": {
+                "name": "medium_performances2.jpg",
+                "hash": "medium_performances2_1db1f1bef0",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 750,
+                "height": 500,
+                "size": 50.15,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/medium_performances2_1db1f1bef0.jpg"
+              },
+              "small": {
+                "name": "small_performances2.jpg",
+                "hash": "small_performances2_1db1f1bef0",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "width": 500,
+                "height": 333,
+                "size": 28.31,
+                "path": null,
+                "url": "https://cdn.bcms.app/uploads/small_performances2_1db1f1bef0.jpg"
+              }
+            },
+            "url": "https://cdn.bcms.app/uploads/performances2_1db1f1bef0.jpg",
+            "previewUrl": null,
+            "provider_metadata": null,
+            "created_by": 1,
+            "updated_by": 1,
+            "created_at": "2022-03-11T17:40:27.000Z",
+            "updated_at": "2022-03-11T17:40:27.000Z"
+          }
+        }
+      ]
+    }
+  ]
+}

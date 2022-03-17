@@ -1,14 +1,14 @@
 export const photos = [
     {
-      src: "https://source.unsplash.com/qDkso9nvCg0/600x799",
-      width: 3,
-      height: 4,
+      src: "https://cdn.bcms.app/uploads/medium_performances1_e1b5f12e88.jpg",
+      width: 4,
+      height: 3,
       title: "Lorem ipsum dolor sit amet"
     },
     {
-      src: "https://source.unsplash.com/iecJiKe_RNg/600x799",
-      width: 3,
-      height: 4,
+      src: "https://cdn.bcms.app/uploads/medium_performances2_1db1f1bef0.jpg",
+      width: 4,
+      height: 3,
       title: "Lorem ipsum dolor sit amet"
     },
     {

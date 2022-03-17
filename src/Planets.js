@@ -23,6 +23,7 @@ function Planets() {
     <div>
       <div className="galleryContainer">
       <Link to="/">Back to Home Page</Link>
+        <h3>Awards</h3>
       <Gallery photos={photos} direction={"row"} onClick={openLightbox} />
         <ModalGateway >
           {viewerIsOpen ? (

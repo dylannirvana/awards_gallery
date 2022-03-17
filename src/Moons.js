@@ -24,6 +24,7 @@ function Moons() {
     <div>
       <div className="galleryContainer">
         <Link to="/">Back to Home Page</Link>
+        <h3>Performances</h3>
         <Gallery photos={photos} direction={"row"} onClick={openLightbox} />
         <ModalGateway>
           {viewerIsOpen ? (

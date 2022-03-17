@@ -1,23 +1,52 @@
 const fs = require('fs');
 
 // READ FILE =======
+// THIS ONE IS GOOD BUT DOESNT FILTER/MAP
+// fs.readFile('./source.json', 'utf8', (err, source) => {
+//     if (err) {
+//         console.log(`Error reading file: ${err}`);
+//     } else {
+//         // console.log(typeof(source))
+//         // const datatrimmed = source.map(item => `${item.text}: ${item.image.url}`)
+//         console.log(source)
+//         const data = JSON.parse(source);
+//         console.log(typeof(data))
+//         // const databases = data.image_sets[0].image_with_text;
+//         const newdata = JSON.stringify(data, null, 4)
+//         console.log(newdata)
+//         fs.writeFile('./user.json', newdata, 'utf8', (err) => {
+//             if (err) {
+//                 console.log(`Error writing file: ${err}`);
+//             } else {
+//                 console.log(`Success!`);
+//             }
+//         })
+//     }
+// })
 
-fs.readFile('./database.json', 'utf8', (err, data) => {
-    if (err) {
-        console.log(`Error reading file: ${err}`);
-    } else {
-        const databases = JSON.parse(data);
-        const newdata = JSON.stringify(databases, null, 4)
-        console.log(newdata)
-        fs.writeFile('./user.json', newdata, 'utf8', (err) => {
-            if (err) {
-                console.log(`Error writing file: ${err}`);
-            } else {
-                console.log(`Success!`);
-            }
-        })
-    }
-})
+const Data = require('./source.json')
+console.log(typeof(Data))
+const data = Data[0].image_with_text;
+console.log(data)
+// fs.readFile('./source.json', 'utf-8', (err, source) => {
+//     if (err) {
+//         console.log(`Error reading file: ${err}`);
+//     } else {
+//         const sets = source.image_sets[0].image_with_text
+//         const data = JSON.parse(sets)
+
+//         // const data = source.map((item) => (
+//         //     `${item.text}: ${item.image.url}`
+//         // ))
+
+
+//         fs.writeFile('./user.json', JSON.stringify(data, null, 4), (err) => {
+//             if (err) {
+//                 console.log(`Error writing file: ${err}`)
+//             } 
+//         })
+//     }
+// })
 
 
 
