@@ -10,9 +10,10 @@ export class Map extends Component {
       
       // Creates presentation of mapped data
       const myjson = data.map((item, i) => (
+        // `{text:${item.text}, url:${item.image.url}}`
         <ul key={i}>
-          <li>{item.text} </li>
-          <li>{item.image.url} </li>
+          <li>{`text:${item.text}`} </li>
+          <li>{`url:${item.image.url}`} </li>
         </ul>
       ))
 

@@ -1,134 +1,2423 @@
-[
+{
+  "name": "Latin 2022",
+  "description": "<div class=\"en\">Photos</div><div class=\"sp\">Fotos</div>",
+  "meta_key": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-02-27T21:13:42.000Z",
+  "updated_at": "2022-03-09T20:11:08.000Z",
+  "image_set": null,
+  "image_sets": [
   {
-    "image_sets": [
-      {
-        "name": "Latin 2022",
-        "description": "<div class=\"en\">Moments from the 2020 BMI Latin Awards</div>\n<div class=\"sp\">Spanish Subhead here about what comes next</div>",
-        "meta_key": "latin22_gallery",
-        "created_by": 1,
-        "updated_by": 1,
-        "created_at": "2022-02-27T21:09:24.000Z",
-        "updated_at": "2022-03-09T20:10:08.000Z",
-        "slide_show": null,
-        "image_with_text": [
-          {
-            "text": "loria and Emilio Estefan together at the 1994 BMI Latin Awards.",
-            "image": {
-              "name": "latin_2021_gallery_Photo-5---1994_#0034.jpg",
-              "alternativeText": "",
-              "caption": "Lorem ipsum",
-              "width": 845,
-              "height": 800,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_latin_2021_gallery_Photo-5---1994_#0034.jpg",
-                  "hash": "thumbnail_latin_2021_gallery_Photo_5_1994_0034_7e3b73d19b",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "width": 165,
-                  "height": 156,
-                  "size": 4.1,
-                  "path": null,
-                  "url": "https://cdn.bcms.app/uploads/thumbnail_latin_2021_gallery_Photo_5_1994_0034_7e3b73d19b.jpg"
-                },
-                "medium": {
-                  "name": "medium_latin_2021_gallery_Photo-5---1994_#0034.jpg",
-                  "hash": "medium_latin_2021_gallery_Photo_5_1994_0034_7e3b73d19b",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "width": 750,
-                  "height": 710,
-                  "size": 37.14,
-                  "path": null,
-                  "url": "https://cdn.bcms.app/uploads/medium_latin_2021_gallery_Photo_5_1994_0034_7e3b73d19b.jpg"
-                },
-                "small": {
-                  "name": "small_latin_2021_gallery_Photo-5---1994_#0034.jpg",
-                  "hash": "small_latin_2021_gallery_Photo_5_1994_0034_7e3b73d19b",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "width": 500,
-                  "height": 473,
-                  "size": 20.97,
-                  "path": null,
-                  "url": "https://cdn.bcms.app/uploads/small_latin_2021_gallery_Photo_5_1994_0034_7e3b73d19b.jpg"
-                }
-              },
-              "url": "https://cdn.bcms.app/uploads/latin_2021_gallery_Photo_5_1994_0034_7e3b73d19b.jpg",
-              "previewUrl": null,
-              "provider_metadata": null,
-              "created_by": 1,
-              "updated_by": 1,
-              "created_at": "2021-03-23T22:50:53.000Z",
-              "updated_at": "2021-03-23T22:50:53.000Z"
-            }
-          },
-          {
-            "text": "Former BMI President and CEO Frances Preston and Adolfo Angel (2nd from left) with BMI guests at the 1994 BMI Latin Awards. ",
-            "image": {
-              "name": "latin_2021_gallery_Photo-2---1994_#0012.jpg",
-              "alternativeText": "",
-              "caption": "",
-              "width": 1150,
-              "height": 800,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_latin_2021_gallery_Photo-2---1994_#0012.jpg",
-                  "hash": "thumbnail_latin_2021_gallery_Photo_2_1994_0012_b7eebae562",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "width": 224,
-                  "height": 156,
-                  "size": 9.34,
-                  "path": null,
-                  "url": "https://cdn.bcms.app/uploads/thumbnail_latin_2021_gallery_Photo_2_1994_0012_b7eebae562.jpg"
-                },
-                "large": {
-                  "name": "large_latin_2021_gallery_Photo-2---1994_#0012.jpg",
-                  "hash": "large_latin_2021_gallery_Photo_2_1994_0012_b7eebae562",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "width": 1000,
-                  "height": 696,
-                  "size": 95.48,
-                  "path": null,
-                  "url": "https://cdn.bcms.app/uploads/large_latin_2021_gallery_Photo_2_1994_0012_b7eebae562.jpg"
-                },
-                "medium": {
-                  "name": "medium_latin_2021_gallery_Photo-2---1994_#0012.jpg",
-                  "hash": "medium_latin_2021_gallery_Photo_2_1994_0012_b7eebae562",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "width": 750,
-                  "height": 522,
-                  "size": 63.83,
-                  "path": null,
-                  "url": "https://cdn.bcms.app/uploads/medium_latin_2021_gallery_Photo_2_1994_0012_b7eebae562.jpg"
-                },
-                "small": {
-                  "name": "small_latin_2021_gallery_Photo-2---1994_#0012.jpg",
-                  "hash": "small_latin_2021_gallery_Photo_2_1994_0012_b7eebae562",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "width": 500,
-                  "height": 348,
-                  "size": 33.53,
-                  "path": null,
-                  "url": "https://cdn.bcms.app/uploads/small_latin_2021_gallery_Photo_2_1994_0012_b7eebae562.jpg"
-                }
-              },
-              "url": "https://cdn.bcms.app/uploads/latin_2021_gallery_Photo_2_1994_0012_b7eebae562.jpg",
-              "previewUrl": null,
-              "provider_metadata": null,
-              "created_by": 1,
-              "updated_by": 1,
-              "created_at": "2021-03-23T22:48:50.000Z",
-              "updated_at": "2021-03-26T18:24:50.000Z"
-            }
-          }
-        ]
-      }
-    ]
+  "name": "Latin 2022",
+  "description": "<div class=\"en\">Moments from the 2020 BMI Latin Awards</div>\n<div class=\"sp\"> Los mejores momentos de los Premios Latinos de BMI 2022</div>",
+  "meta_key": "latin22_gallery",
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-02-27T21:09:24.000Z",
+  "updated_at": "2022-03-22T19:20:54.000Z",
+  "slide_show": null,
+  "image_with_text": [
+  {
+  "text": "<span>\n(L-R) Wisin, BMI President & CEO Mike O'Neill, and Yandel attend the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6512_5c700f0b-d5f0-4fd6-bcb2-764d501df0c4.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6512_5c700f0b-d5f0-4fd6-bcb2-764d501df0c4.jpg",
+  "hash": "thumbnail_latin22_JO_1_6512_5c700f0b_d5f0_4fd6_bcb2_764d501df0c4_a584dd0402",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 10.27,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6512_5c700f0b_d5f0_4fd6_bcb2_764d501df0c4_a584dd0402.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO1_6512_5c700f0b-d5f0-4fd6-bcb2-764d501df0c4.jpg",
+  "hash": "large_latin22_JO_1_6512_5c700f0b_d5f0_4fd6_bcb2_764d501df0c4_a584dd0402",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 102.84,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_1_6512_5c700f0b_d5f0_4fd6_bcb2_764d501df0c4_a584dd0402.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6512_5c700f0b-d5f0-4fd6-bcb2-764d501df0c4.jpg",
+  "hash": "medium_latin22_JO_1_6512_5c700f0b_d5f0_4fd6_bcb2_764d501df0c4_a584dd0402",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 65.85,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6512_5c700f0b_d5f0_4fd6_bcb2_764d501df0c4_a584dd0402.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6512_5c700f0b-d5f0-4fd6-bcb2-764d501df0c4.jpg",
+  "hash": "small_latin22_JO_1_6512_5c700f0b_d5f0_4fd6_bcb2_764d501df0c4_a584dd0402",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 33.19,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6512_5c700f0b_d5f0_4fd6_bcb2_764d501df0c4_a584dd0402.jpg"
   }
-  
-]
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6512_5c700f0b_d5f0_4fd6_bcb2_764d501df0c4_a584dd0402.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:01:57.000Z",
+  "updated_at": "2022-03-16T07:01:57.000Z"
+  }
+  },
+  {
+  "text": "<span>\nYandel attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI\n</span>",
+  "image": {
+  "name": "latin22_DSC04481_01498cbd-301d-44d6-8b43-d522f38fb291.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_DSC04481_01498cbd-301d-44d6-8b43-d522f38fb291.jpg",
+  "hash": "thumbnail_latin22_DSC_04481_01498cbd_301d_44d6_8b43_d522f38fb291_75c160b7d8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 6.52,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_DSC_04481_01498cbd_301d_44d6_8b43_d522f38fb291_75c160b7d8.jpg"
+  },
+  "large": {
+  "name": "large_latin22_DSC04481_01498cbd-301d-44d6-8b43-d522f38fb291.jpg",
+  "hash": "large_latin22_DSC_04481_01498cbd_301d_44d6_8b43_d522f38fb291_75c160b7d8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 58.48,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_DSC_04481_01498cbd_301d_44d6_8b43_d522f38fb291_75c160b7d8.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_DSC04481_01498cbd-301d-44d6-8b43-d522f38fb291.jpg",
+  "hash": "medium_latin22_DSC_04481_01498cbd_301d_44d6_8b43_d522f38fb291_75c160b7d8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 37.29,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_DSC_04481_01498cbd_301d_44d6_8b43_d522f38fb291_75c160b7d8.jpg"
+  },
+  "small": {
+  "name": "small_latin22_DSC04481_01498cbd-301d-44d6-8b43-d522f38fb291.jpg",
+  "hash": "small_latin22_DSC_04481_01498cbd_301d_44d6_8b43_d522f38fb291_75c160b7d8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 19.36,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_DSC_04481_01498cbd_301d_44d6_8b43_d522f38fb291_75c160b7d8.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_DSC_04481_01498cbd_301d_44d6_8b43_d522f38fb291_75c160b7d8.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:07:14.000Z",
+  "updated_at": "2022-03-16T07:07:14.000Z"
+  }
+  },
+  {
+  "text": "<span>\nMario Quintero attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6636_a403ad99-3547-447f-a728-bb3ef65efe84.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 533,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6636_a403ad99-3547-447f-a728-bb3ef65efe84.jpg",
+  "hash": "thumbnail_latin22_JO_1_6636_a403ad99_3547_447f_a728_bb3ef65efe84_c8bd831b21",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 104,
+  "height": 156,
+  "size": 4.4,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6636_a403ad99_3547_447f_a728_bb3ef65efe84_c8bd831b21.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6636_a403ad99-3547-447f-a728-bb3ef65efe84.jpg",
+  "hash": "medium_latin22_JO_1_6636_a403ad99_3547_447f_a728_bb3ef65efe84_c8bd831b21",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 750,
+  "size": 41.66,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6636_a403ad99_3547_447f_a728_bb3ef65efe84_c8bd831b21.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6636_a403ad99-3547-447f-a728-bb3ef65efe84.jpg",
+  "hash": "small_latin22_JO_1_6636_a403ad99_3547_447f_a728_bb3ef65efe84_c8bd831b21",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 333,
+  "height": 500,
+  "size": 23.82,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6636_a403ad99_3547_447f_a728_bb3ef65efe84_c8bd831b21.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6636_a403ad99_3547_447f_a728_bb3ef65efe84_c8bd831b21.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:07:14.000Z",
+  "updated_at": "2022-03-16T07:07:14.000Z"
+  }
+  },
+  {
+  "text": "<span>\nJacqie Rivera attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_DSC04439_b9361ea7-aded-44f3-862f-2b25ea520765.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_DSC04439_b9361ea7-aded-44f3-862f-2b25ea520765.jpg",
+  "hash": "thumbnail_latin22_DSC_04439_b9361ea7_aded_44f3_862f_2b25ea520765_ad33c6e38e",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 7.91,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_DSC_04439_b9361ea7_aded_44f3_862f_2b25ea520765_ad33c6e38e.jpg"
+  },
+  "large": {
+  "name": "large_latin22_DSC04439_b9361ea7-aded-44f3-862f-2b25ea520765.jpg",
+  "hash": "large_latin22_DSC_04439_b9361ea7_aded_44f3_862f_2b25ea520765_ad33c6e38e",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 76.26,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_DSC_04439_b9361ea7_aded_44f3_862f_2b25ea520765_ad33c6e38e.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_DSC04439_b9361ea7-aded-44f3-862f-2b25ea520765.jpg",
+  "hash": "medium_latin22_DSC_04439_b9361ea7_aded_44f3_862f_2b25ea520765_ad33c6e38e",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 48.31,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_DSC_04439_b9361ea7_aded_44f3_862f_2b25ea520765_ad33c6e38e.jpg"
+  },
+  "small": {
+  "name": "small_latin22_DSC04439_b9361ea7-aded-44f3-862f-2b25ea520765.jpg",
+  "hash": "small_latin22_DSC_04439_b9361ea7_aded_44f3_862f_2b25ea520765_ad33c6e38e",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 24.76,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_DSC_04439_b9361ea7_aded_44f3_862f_2b25ea520765_ad33c6e38e.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_DSC_04439_b9361ea7_aded_44f3_862f_2b25ea520765_ad33c6e38e.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:07:14.000Z",
+  "updated_at": "2022-03-16T07:07:14.000Z"
+  }
+  },
+  {
+  "text": "<span>\nTainy is seen during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5977_1577c50a-9374-46ed-b93a-f2e25baac433.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 533,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5977_1577c50a-9374-46ed-b93a-f2e25baac433.jpg",
+  "hash": "thumbnail_latin22_LC_5_5977_1577c50a_9374_46ed_b93a_f2e25baac433_de3ced8b32",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 104,
+  "height": 156,
+  "size": 5,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5977_1577c50a_9374_46ed_b93a_f2e25baac433_de3ced8b32.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5977_1577c50a-9374-46ed-b93a-f2e25baac433.jpg",
+  "hash": "medium_latin22_LC_5_5977_1577c50a_9374_46ed_b93a_f2e25baac433_de3ced8b32",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 750,
+  "size": 61.74,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5977_1577c50a_9374_46ed_b93a_f2e25baac433_de3ced8b32.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5977_1577c50a-9374-46ed-b93a-f2e25baac433.jpg",
+  "hash": "small_latin22_LC_5_5977_1577c50a_9374_46ed_b93a_f2e25baac433_de3ced8b32",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 333,
+  "height": 500,
+  "size": 33.53,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5977_1577c50a_9374_46ed_b93a_f2e25baac433_de3ced8b32.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5977_1577c50a_9374_46ed_b93a_f2e25baac433_de3ced8b32.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:09.000Z",
+  "updated_at": "2022-03-16T07:02:09.000Z"
+  }
+  },
+  {
+  "text": "<span>\nWisin attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_DSC04490_65381abe-9145-4628-8591-693d1beea9e4.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_DSC04490_65381abe-9145-4628-8591-693d1beea9e4.jpg",
+  "hash": "thumbnail_latin22_DSC_04490_65381abe_9145_4628_8591_693d1beea9e4_6e7e4f5cd7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 13.31,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_DSC_04490_65381abe_9145_4628_8591_693d1beea9e4_6e7e4f5cd7.jpg"
+  },
+  "large": {
+  "name": "large_latin22_DSC04490_65381abe-9145-4628-8591-693d1beea9e4.jpg",
+  "hash": "large_latin22_DSC_04490_65381abe_9145_4628_8591_693d1beea9e4_6e7e4f5cd7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 63.32,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_DSC_04490_65381abe_9145_4628_8591_693d1beea9e4_6e7e4f5cd7.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_DSC04490_65381abe-9145-4628-8591-693d1beea9e4.jpg",
+  "hash": "medium_latin22_DSC_04490_65381abe_9145_4628_8591_693d1beea9e4_6e7e4f5cd7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 43.96,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_DSC_04490_65381abe_9145_4628_8591_693d1beea9e4_6e7e4f5cd7.jpg"
+  },
+  "small": {
+  "name": "small_latin22_DSC04490_65381abe-9145-4628-8591-693d1beea9e4.jpg",
+  "hash": "small_latin22_DSC_04490_65381abe_9145_4628_8591_693d1beea9e4_6e7e4f5cd7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 26.84,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_DSC_04490_65381abe_9145_4628_8591_693d1beea9e4_6e7e4f5cd7.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_DSC_04490_65381abe_9145_4628_8591_693d1beea9e4_6e7e4f5cd7.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:09.000Z",
+  "updated_at": "2022-03-16T07:02:09.000Z"
+  }
+  },
+  {
+  "text": "<span>\nWisin & Yandel perform onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5832_d20da7cd-50da-4b48-b1da-b1931404defa.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5832_d20da7cd-50da-4b48-b1da-b1931404defa.jpg",
+  "hash": "thumbnail_latin22_LC_5_5832_d20da7cd_50da_4b48_b1da_b1931404defa_6ff84de918",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 9.7,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5832_d20da7cd_50da_4b48_b1da_b1931404defa_6ff84de918.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC5_5832_d20da7cd-50da-4b48-b1da-b1931404defa.jpg",
+  "hash": "large_latin22_LC_5_5832_d20da7cd_50da_4b48_b1da_b1931404defa_6ff84de918",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 103.85,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_5_5832_d20da7cd_50da_4b48_b1da_b1931404defa_6ff84de918.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5832_d20da7cd-50da-4b48-b1da-b1931404defa.jpg",
+  "hash": "medium_latin22_LC_5_5832_d20da7cd_50da_4b48_b1da_b1931404defa_6ff84de918",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 67.7,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5832_d20da7cd_50da_4b48_b1da_b1931404defa_6ff84de918.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5832_d20da7cd-50da-4b48-b1da-b1931404defa.jpg",
+  "hash": "small_latin22_LC_5_5832_d20da7cd_50da_4b48_b1da_b1931404defa_6ff84de918",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 34.63,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5832_d20da7cd_50da_4b48_b1da_b1931404defa_6ff84de918.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5832_d20da7cd_50da_4b48_b1da_b1931404defa_6ff84de918.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:07.000Z",
+  "updated_at": "2022-03-16T07:02:08.000Z"
+  }
+  },
+  {
+  "text": "<span>\n(L-R) Mario Quintero and Yandel attend the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5982_5dfdad62-9cf2-4c84-b7e2-bd104c6fdaac.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5982_5dfdad62-9cf2-4c84-b7e2-bd104c6fdaac.jpg",
+  "hash": "thumbnail_latin22_LC_5_5982_5dfdad62_9cf2_4c84_b7e2_bd104c6fdaac_573faa5e90",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 8.9,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5982_5dfdad62_9cf2_4c84_b7e2_bd104c6fdaac_573faa5e90.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC5_5982_5dfdad62-9cf2-4c84-b7e2-bd104c6fdaac.jpg",
+  "hash": "large_latin22_LC_5_5982_5dfdad62_9cf2_4c84_b7e2_bd104c6fdaac_573faa5e90",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 87.95,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_5_5982_5dfdad62_9cf2_4c84_b7e2_bd104c6fdaac_573faa5e90.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5982_5dfdad62-9cf2-4c84-b7e2-bd104c6fdaac.jpg",
+  "hash": "medium_latin22_LC_5_5982_5dfdad62_9cf2_4c84_b7e2_bd104c6fdaac_573faa5e90",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 56.61,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5982_5dfdad62_9cf2_4c84_b7e2_bd104c6fdaac_573faa5e90.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5982_5dfdad62-9cf2-4c84-b7e2-bd104c6fdaac.jpg",
+  "hash": "small_latin22_LC_5_5982_5dfdad62_9cf2_4c84_b7e2_bd104c6fdaac_573faa5e90",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 29.08,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5982_5dfdad62_9cf2_4c84_b7e2_bd104c6fdaac_573faa5e90.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5982_5dfdad62_9cf2_4c84_b7e2_bd104c6fdaac_573faa5e90.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:07.000Z",
+  "updated_at": "2022-03-16T07:02:08.000Z"
+  }
+  },
+  {
+  "text": "<span>\nYandel is seen during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5799_87148caf-afe1-406f-a3d9-4e71112203e8.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5799_87148caf-afe1-406f-a3d9-4e71112203e8.jpg",
+  "hash": "thumbnail_latin22_LC_5_5799_87148caf_afe1_406f_a3d9_4e71112203e8_a8e8683b70",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 8.91,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5799_87148caf_afe1_406f_a3d9_4e71112203e8_a8e8683b70.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC5_5799_87148caf-afe1-406f-a3d9-4e71112203e8.jpg",
+  "hash": "large_latin22_LC_5_5799_87148caf_afe1_406f_a3d9_4e71112203e8_a8e8683b70",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 88.42,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_5_5799_87148caf_afe1_406f_a3d9_4e71112203e8_a8e8683b70.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5799_87148caf-afe1-406f-a3d9-4e71112203e8.jpg",
+  "hash": "medium_latin22_LC_5_5799_87148caf_afe1_406f_a3d9_4e71112203e8_a8e8683b70",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 57.44,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5799_87148caf_afe1_406f_a3d9_4e71112203e8_a8e8683b70.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5799_87148caf-afe1-406f-a3d9-4e71112203e8.jpg",
+  "hash": "small_latin22_LC_5_5799_87148caf_afe1_406f_a3d9_4e71112203e8_a8e8683b70",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 29.53,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5799_87148caf_afe1_406f_a3d9_4e71112203e8_a8e8683b70.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5799_87148caf_afe1_406f_a3d9_4e71112203e8_a8e8683b70.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:07.000Z",
+  "updated_at": "2022-03-16T07:02:08.000Z"
+  }
+  },
+  {
+  "text": "<span>\n(L-R) BMI President & CEO Mike O'Neill, Wisin & Yandel, and BMI SVP of Creative Alex Flores speak onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5963_e62e9c44-4793-40c4-a5e9-edee491cab21.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5963_e62e9c44-4793-40c4-a5e9-edee491cab21.jpg",
+  "hash": "thumbnail_latin22_LC_5_5963_e62e9c44_4793_40c4_a5e9_edee491cab21_2b5d410f34",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 9.94,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5963_e62e9c44_4793_40c4_a5e9_edee491cab21_2b5d410f34.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC5_5963_e62e9c44-4793-40c4-a5e9-edee491cab21.jpg",
+  "hash": "large_latin22_LC_5_5963_e62e9c44_4793_40c4_a5e9_edee491cab21_2b5d410f34",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 100.87,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_5_5963_e62e9c44_4793_40c4_a5e9_edee491cab21_2b5d410f34.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5963_e62e9c44-4793-40c4-a5e9-edee491cab21.jpg",
+  "hash": "medium_latin22_LC_5_5963_e62e9c44_4793_40c4_a5e9_edee491cab21_2b5d410f34",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 65.73,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5963_e62e9c44_4793_40c4_a5e9_edee491cab21_2b5d410f34.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5963_e62e9c44-4793-40c4-a5e9-edee491cab21.jpg",
+  "hash": "small_latin22_LC_5_5963_e62e9c44_4793_40c4_a5e9_edee491cab21_2b5d410f34",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 34.26,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5963_e62e9c44_4793_40c4_a5e9_edee491cab21_2b5d410f34.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5963_e62e9c44_4793_40c4_a5e9_edee491cab21_2b5d410f34.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:07.000Z",
+  "updated_at": "2022-03-16T07:02:08.000Z"
+  }
+  },
+  {
+  "text": "<span>\nYandel performs onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5886_c986b0a0-3268-4043-af74-d18ee5989d56.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5886_c986b0a0-3268-4043-af74-d18ee5989d56.jpg",
+  "hash": "thumbnail_latin22_LC_5_5886_c986b0a0_3268_4043_af74_d18ee5989d56_0ae427f7a7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 10.07,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5886_c986b0a0_3268_4043_af74_d18ee5989d56_0ae427f7a7.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC5_5886_c986b0a0-3268-4043-af74-d18ee5989d56.jpg",
+  "hash": "large_latin22_LC_5_5886_c986b0a0_3268_4043_af74_d18ee5989d56_0ae427f7a7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 92.88,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_5_5886_c986b0a0_3268_4043_af74_d18ee5989d56_0ae427f7a7.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5886_c986b0a0-3268-4043-af74-d18ee5989d56.jpg",
+  "hash": "medium_latin22_LC_5_5886_c986b0a0_3268_4043_af74_d18ee5989d56_0ae427f7a7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 62.13,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5886_c986b0a0_3268_4043_af74_d18ee5989d56_0ae427f7a7.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5886_c986b0a0-3268-4043-af74-d18ee5989d56.jpg",
+  "hash": "small_latin22_LC_5_5886_c986b0a0_3268_4043_af74_d18ee5989d56_0ae427f7a7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 32.94,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5886_c986b0a0_3268_4043_af74_d18ee5989d56_0ae427f7a7.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5886_c986b0a0_3268_4043_af74_d18ee5989d56_0ae427f7a7.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:08.000Z",
+  "updated_at": "2022-03-16T07:02:08.000Z"
+  }
+  },
+  {
+  "text": "<span>\nWisin & Yandel perform onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5801_15a72a5e-7f8a-4aff-b07d-63b2c865f77b.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5801_15a72a5e-7f8a-4aff-b07d-63b2c865f77b.jpg",
+  "hash": "thumbnail_latin22_LC_5_5801_15a72a5e_7f8a_4aff_b07d_63b2c865f77b_9eb91e616f",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 10.99,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5801_15a72a5e_7f8a_4aff_b07d_63b2c865f77b_9eb91e616f.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC5_5801_15a72a5e-7f8a-4aff-b07d-63b2c865f77b.jpg",
+  "hash": "large_latin22_LC_5_5801_15a72a5e_7f8a_4aff_b07d_63b2c865f77b_9eb91e616f",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 110.89,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_5_5801_15a72a5e_7f8a_4aff_b07d_63b2c865f77b_9eb91e616f.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5801_15a72a5e-7f8a-4aff-b07d-63b2c865f77b.jpg",
+  "hash": "medium_latin22_LC_5_5801_15a72a5e_7f8a_4aff_b07d_63b2c865f77b_9eb91e616f",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 73.35,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5801_15a72a5e_7f8a_4aff_b07d_63b2c865f77b_9eb91e616f.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5801_15a72a5e-7f8a-4aff-b07d-63b2c865f77b.jpg",
+  "hash": "small_latin22_LC_5_5801_15a72a5e_7f8a_4aff_b07d_63b2c865f77b_9eb91e616f",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 38.15,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5801_15a72a5e_7f8a_4aff_b07d_63b2c865f77b_9eb91e616f.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5801_15a72a5e_7f8a_4aff_b07d_63b2c865f77b_9eb91e616f.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:06.000Z",
+  "updated_at": "2022-03-16T07:02:06.000Z"
+  }
+  },
+  {
+  "text": "<span>\nOmar Tarazón speaks onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5750_1641380f-9df8-476c-96cb-e585450836d9.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 533,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5750_1641380f-9df8-476c-96cb-e585450836d9.jpg",
+  "hash": "thumbnail_latin22_LC_5_5750_1641380f_9df8_476c_96cb_e585450836d9_f7f284dbc3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 104,
+  "height": 156,
+  "size": 3.48,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5750_1641380f_9df8_476c_96cb_e585450836d9_f7f284dbc3.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5750_1641380f-9df8-476c-96cb-e585450836d9.jpg",
+  "hash": "medium_latin22_LC_5_5750_1641380f_9df8_476c_96cb_e585450836d9_f7f284dbc3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 750,
+  "size": 35.29,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5750_1641380f_9df8_476c_96cb_e585450836d9_f7f284dbc3.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5750_1641380f-9df8-476c-96cb-e585450836d9.jpg",
+  "hash": "small_latin22_LC_5_5750_1641380f_9df8_476c_96cb_e585450836d9_f7f284dbc3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 333,
+  "height": 500,
+  "size": 19.84,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5750_1641380f_9df8_476c_96cb_e585450836d9_f7f284dbc3.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5750_1641380f_9df8_476c_96cb_e585450836d9_f7f284dbc3.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:05.000Z",
+  "updated_at": "2022-03-16T07:02:05.000Z"
+  }
+  },
+  {
+  "text": "<span>\n(L-R) Wisin & Yandel perform onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC4_5968_6b922cc4-47d4-41ce-bb0e-703e8110db24.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1204,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC4_5968_6b922cc4-47d4-41ce-bb0e-703e8110db24.jpg",
+  "hash": "thumbnail_latin22_LC_4_5968_6b922cc4_47d4_41ce_bb0e_703e8110db24_34e4da6792",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 235,
+  "height": 156,
+  "size": 11.88,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_4_5968_6b922cc4_47d4_41ce_bb0e_703e8110db24_34e4da6792.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC4_5968_6b922cc4-47d4-41ce-bb0e-703e8110db24.jpg",
+  "hash": "large_latin22_LC_4_5968_6b922cc4_47d4_41ce_bb0e_703e8110db24_34e4da6792",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 664,
+  "size": 112.52,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_4_5968_6b922cc4_47d4_41ce_bb0e_703e8110db24_34e4da6792.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC4_5968_6b922cc4-47d4-41ce-bb0e-703e8110db24.jpg",
+  "hash": "medium_latin22_LC_4_5968_6b922cc4_47d4_41ce_bb0e_703e8110db24_34e4da6792",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 498,
+  "size": 74.58,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_4_5968_6b922cc4_47d4_41ce_bb0e_703e8110db24_34e4da6792.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC4_5968_6b922cc4-47d4-41ce-bb0e-703e8110db24.jpg",
+  "hash": "small_latin22_LC_4_5968_6b922cc4_47d4_41ce_bb0e_703e8110db24_34e4da6792",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 332,
+  "size": 39.67,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_4_5968_6b922cc4_47d4_41ce_bb0e_703e8110db24_34e4da6792.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_4_5968_6b922cc4_47d4_41ce_bb0e_703e8110db24_34e4da6792.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:04.000Z",
+  "updated_at": "2022-03-16T07:02:04.000Z"
+  }
+  },
+  {
+  "text": "<span>\nCris Chil is seen onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5558_7a63a490-1d1a-4013-9d80-7ff20163a119.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 533,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5558_7a63a490-1d1a-4013-9d80-7ff20163a119.jpg",
+  "hash": "thumbnail_latin22_LC_5_5558_7a63a490_1d1a_4013_9d80_7ff20163a119_07913399a8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 104,
+  "height": 156,
+  "size": 5.1,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5558_7a63a490_1d1a_4013_9d80_7ff20163a119_07913399a8.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5558_7a63a490-1d1a-4013-9d80-7ff20163a119.jpg",
+  "hash": "medium_latin22_LC_5_5558_7a63a490_1d1a_4013_9d80_7ff20163a119_07913399a8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 750,
+  "size": 67.45,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5558_7a63a490_1d1a_4013_9d80_7ff20163a119_07913399a8.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5558_7a63a490-1d1a-4013-9d80-7ff20163a119.jpg",
+  "hash": "small_latin22_LC_5_5558_7a63a490_1d1a_4013_9d80_7ff20163a119_07913399a8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 333,
+  "height": 500,
+  "size": 35.87,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5558_7a63a490_1d1a_4013_9d80_7ff20163a119_07913399a8.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5558_7a63a490_1d1a_4013_9d80_7ff20163a119_07913399a8.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:04.000Z",
+  "updated_at": "2022-03-16T07:02:04.000Z"
+  }
+  },
+  {
+  "text": "<span>\nBMI President & CEO Mike O'Neill, Tainy, BMI SVP of Creative Alex Flores, and BMI VP of Creative, Latin Jesus Gonzalez speak onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5779_111e4da5-076d-43a9-bfad-40a04b89b1c3.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5779_111e4da5-076d-43a9-bfad-40a04b89b1c3.jpg",
+  "hash": "thumbnail_latin22_LC_5_5779_111e4da5_076d_43a9_bfad_40a04b89b1c3_0d924dbb23",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 8.37,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5779_111e4da5_076d_43a9_bfad_40a04b89b1c3_0d924dbb23.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC5_5779_111e4da5-076d-43a9-bfad-40a04b89b1c3.jpg",
+  "hash": "large_latin22_LC_5_5779_111e4da5_076d_43a9_bfad_40a04b89b1c3_0d924dbb23",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 88.4,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_5_5779_111e4da5_076d_43a9_bfad_40a04b89b1c3_0d924dbb23.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5779_111e4da5-076d-43a9-bfad-40a04b89b1c3.jpg",
+  "hash": "medium_latin22_LC_5_5779_111e4da5_076d_43a9_bfad_40a04b89b1c3_0d924dbb23",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 56.59,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5779_111e4da5_076d_43a9_bfad_40a04b89b1c3_0d924dbb23.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5779_111e4da5-076d-43a9-bfad-40a04b89b1c3.jpg",
+  "hash": "small_latin22_LC_5_5779_111e4da5_076d_43a9_bfad_40a04b89b1c3_0d924dbb23",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 28.87,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5779_111e4da5_076d_43a9_bfad_40a04b89b1c3_0d924dbb23.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5779_111e4da5_076d_43a9_bfad_40a04b89b1c3_0d924dbb23.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:04.000Z",
+  "updated_at": "2022-03-16T07:02:04.000Z"
+  }
+  },
+  {
+  "text": "<span>\nYandel performs onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO3_7158_44518aba-744a-4e56-829d-7c6ce6938531.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 533,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO3_7158_44518aba-744a-4e56-829d-7c6ce6938531.jpg",
+  "hash": "thumbnail_latin22_JO_3_7158_44518aba_744a_4e56_829d_7c6ce6938531_3a37431161",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 104,
+  "height": 156,
+  "size": 4.91,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_3_7158_44518aba_744a_4e56_829d_7c6ce6938531_3a37431161.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO3_7158_44518aba-744a-4e56-829d-7c6ce6938531.jpg",
+  "hash": "medium_latin22_JO_3_7158_44518aba_744a_4e56_829d_7c6ce6938531_3a37431161",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 750,
+  "size": 48.23,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_3_7158_44518aba_744a_4e56_829d_7c6ce6938531_3a37431161.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO3_7158_44518aba-744a-4e56-829d-7c6ce6938531.jpg",
+  "hash": "small_latin22_JO_3_7158_44518aba_744a_4e56_829d_7c6ce6938531_3a37431161",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 333,
+  "height": 500,
+  "size": 27.17,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_3_7158_44518aba_744a_4e56_829d_7c6ce6938531_3a37431161.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_3_7158_44518aba_744a_4e56_829d_7c6ce6938531_3a37431161.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:04.000Z",
+  "updated_at": "2022-03-16T07:02:04.000Z"
+  }
+  },
+  {
+  "text": "<span>\n(L-R) Wisin & Yandel perform onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC4_5977_3ab06d04-7e55-4525-9f2d-b544590617ac.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1204,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC4_5977_3ab06d04-7e55-4525-9f2d-b544590617ac.jpg",
+  "hash": "thumbnail_latin22_LC_4_5977_3ab06d04_7e55_4525_9f2d_b544590617ac_ae141e82c3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 235,
+  "height": 156,
+  "size": 11.53,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_4_5977_3ab06d04_7e55_4525_9f2d_b544590617ac_ae141e82c3.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC4_5977_3ab06d04-7e55-4525-9f2d-b544590617ac.jpg",
+  "hash": "large_latin22_LC_4_5977_3ab06d04_7e55_4525_9f2d_b544590617ac_ae141e82c3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 664,
+  "size": 103.85,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_4_5977_3ab06d04_7e55_4525_9f2d_b544590617ac_ae141e82c3.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC4_5977_3ab06d04-7e55-4525-9f2d-b544590617ac.jpg",
+  "hash": "medium_latin22_LC_4_5977_3ab06d04_7e55_4525_9f2d_b544590617ac_ae141e82c3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 498,
+  "size": 68.93,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_4_5977_3ab06d04_7e55_4525_9f2d_b544590617ac_ae141e82c3.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC4_5977_3ab06d04-7e55-4525-9f2d-b544590617ac.jpg",
+  "hash": "small_latin22_LC_4_5977_3ab06d04_7e55_4525_9f2d_b544590617ac_ae141e82c3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 332,
+  "size": 37.23,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_4_5977_3ab06d04_7e55_4525_9f2d_b544590617ac_ae141e82c3.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_4_5977_3ab06d04_7e55_4525_9f2d_b544590617ac_ae141e82c3.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:03.000Z",
+  "updated_at": "2022-03-16T07:02:03.000Z"
+  }
+  },
+  {
+  "text": "<span>\nTainy walks onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5688_733c179d-a81f-4de9-b19f-afe6adbba0aa.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5688_733c179d-a81f-4de9-b19f-afe6adbba0aa.jpg",
+  "hash": "thumbnail_latin22_LC_5_5688_733c179d_a81f_4de9_b19f_afe6adbba0aa_9bd0852257",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 10.41,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5688_733c179d_a81f_4de9_b19f_afe6adbba0aa_9bd0852257.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC5_5688_733c179d-a81f-4de9-b19f-afe6adbba0aa.jpg",
+  "hash": "large_latin22_LC_5_5688_733c179d_a81f_4de9_b19f_afe6adbba0aa_9bd0852257",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 117.58,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_5_5688_733c179d_a81f_4de9_b19f_afe6adbba0aa_9bd0852257.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5688_733c179d-a81f-4de9-b19f-afe6adbba0aa.jpg",
+  "hash": "medium_latin22_LC_5_5688_733c179d_a81f_4de9_b19f_afe6adbba0aa_9bd0852257",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 75.96,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5688_733c179d_a81f_4de9_b19f_afe6adbba0aa_9bd0852257.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5688_733c179d-a81f-4de9-b19f-afe6adbba0aa.jpg",
+  "hash": "small_latin22_LC_5_5688_733c179d_a81f_4de9_b19f_afe6adbba0aa_9bd0852257",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 37.42,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5688_733c179d_a81f_4de9_b19f_afe6adbba0aa_9bd0852257.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5688_733c179d_a81f_4de9_b19f_afe6adbba0aa_9bd0852257.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:03.000Z",
+  "updated_at": "2022-03-16T07:02:03.000Z"
+  }
+  },
+  {
+  "text": "<span>\nMario Quintero attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6854_5935647c-ea18-4cc9-9360-f8fae130d380.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 533,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6854_5935647c-ea18-4cc9-9360-f8fae130d380.jpg",
+  "hash": "thumbnail_latin22_JO_1_6854_5935647c_ea18_4cc9_9360_f8fae130d380_173b10a174",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 104,
+  "height": 156,
+  "size": 5.17,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6854_5935647c_ea18_4cc9_9360_f8fae130d380_173b10a174.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6854_5935647c-ea18-4cc9-9360-f8fae130d380.jpg",
+  "hash": "medium_latin22_JO_1_6854_5935647c_ea18_4cc9_9360_f8fae130d380_173b10a174",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 750,
+  "size": 58.9,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6854_5935647c_ea18_4cc9_9360_f8fae130d380_173b10a174.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6854_5935647c-ea18-4cc9-9360-f8fae130d380.jpg",
+  "hash": "small_latin22_JO_1_6854_5935647c_ea18_4cc9_9360_f8fae130d380_173b10a174",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 333,
+  "height": 500,
+  "size": 32.55,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6854_5935647c_ea18_4cc9_9360_f8fae130d380_173b10a174.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6854_5935647c_ea18_4cc9_9360_f8fae130d380_173b10a174.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:02.000Z",
+  "updated_at": "2022-03-16T07:02:02.000Z"
+  }
+  },
+  {
+  "text": "<span>\nGeovani Cabrera attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6609_27a163f9-1830-4dbb-ba21-a21236df3dd6.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 533,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6609_27a163f9-1830-4dbb-ba21-a21236df3dd6.jpg",
+  "hash": "thumbnail_latin22_JO_1_6609_27a163f9_1830_4dbb_ba21_a21236df3dd6_ffbfed8c08",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 104,
+  "height": 156,
+  "size": 4.24,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6609_27a163f9_1830_4dbb_ba21_a21236df3dd6_ffbfed8c08.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6609_27a163f9-1830-4dbb-ba21-a21236df3dd6.jpg",
+  "hash": "medium_latin22_JO_1_6609_27a163f9_1830_4dbb_ba21_a21236df3dd6_ffbfed8c08",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 750,
+  "size": 40.29,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6609_27a163f9_1830_4dbb_ba21_a21236df3dd6_ffbfed8c08.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6609_27a163f9-1830-4dbb-ba21-a21236df3dd6.jpg",
+  "hash": "small_latin22_JO_1_6609_27a163f9_1830_4dbb_ba21_a21236df3dd6_ffbfed8c08",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 333,
+  "height": 500,
+  "size": 22.79,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6609_27a163f9_1830_4dbb_ba21_a21236df3dd6_ffbfed8c08.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6609_27a163f9_1830_4dbb_ba21_a21236df3dd6_ffbfed8c08.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:02.000Z",
+  "updated_at": "2022-03-16T07:02:02.000Z"
+  }
+  },
+  {
+  "text": "<span>\n(L-R) Wisin & Yandel speak onstage during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO3_7274_27c05f0c-e52f-4ed7-aec5-002df4a87dbf.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO3_7274_27c05f0c-e52f-4ed7-aec5-002df4a87dbf.jpg",
+  "hash": "thumbnail_latin22_JO_3_7274_27c05f0c_e52f_4ed7_aec5_002df4a87dbf_18cc47aa32",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 11.06,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_3_7274_27c05f0c_e52f_4ed7_aec5_002df4a87dbf_18cc47aa32.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO3_7274_27c05f0c-e52f-4ed7-aec5-002df4a87dbf.jpg",
+  "hash": "large_latin22_JO_3_7274_27c05f0c_e52f_4ed7_aec5_002df4a87dbf_18cc47aa32",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 102.96,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_3_7274_27c05f0c_e52f_4ed7_aec5_002df4a87dbf_18cc47aa32.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO3_7274_27c05f0c-e52f-4ed7-aec5-002df4a87dbf.jpg",
+  "hash": "medium_latin22_JO_3_7274_27c05f0c_e52f_4ed7_aec5_002df4a87dbf_18cc47aa32",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 67.54,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_3_7274_27c05f0c_e52f_4ed7_aec5_002df4a87dbf_18cc47aa32.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO3_7274_27c05f0c-e52f-4ed7-aec5-002df4a87dbf.jpg",
+  "hash": "small_latin22_JO_3_7274_27c05f0c_e52f_4ed7_aec5_002df4a87dbf_18cc47aa32",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 35.75,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_3_7274_27c05f0c_e52f_4ed7_aec5_002df4a87dbf_18cc47aa32.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_3_7274_27c05f0c_e52f_4ed7_aec5_002df4a87dbf_18cc47aa32.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:01.000Z",
+  "updated_at": "2022-03-16T07:02:01.000Z"
+  }
+  },
+  {
+  "text": "<span>\nVictoria La Mala attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6623_31b18e98-d2bd-4d37-9b5a-4c89f8928ff7.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 533,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6623_31b18e98-d2bd-4d37-9b5a-4c89f8928ff7.jpg",
+  "hash": "thumbnail_latin22_JO_1_6623_31b18e98_d2bd_4d37_9b5a_4c89f8928ff7_031dd90431",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 104,
+  "height": 156,
+  "size": 5.05,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6623_31b18e98_d2bd_4d37_9b5a_4c89f8928ff7_031dd90431.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6623_31b18e98-d2bd-4d37-9b5a-4c89f8928ff7.jpg",
+  "hash": "medium_latin22_JO_1_6623_31b18e98_d2bd_4d37_9b5a_4c89f8928ff7_031dd90431",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 750,
+  "size": 62.53,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6623_31b18e98_d2bd_4d37_9b5a_4c89f8928ff7_031dd90431.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6623_31b18e98-d2bd-4d37-9b5a-4c89f8928ff7.jpg",
+  "hash": "small_latin22_JO_1_6623_31b18e98_d2bd_4d37_9b5a_4c89f8928ff7_031dd90431",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 333,
+  "height": 500,
+  "size": 32.77,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6623_31b18e98_d2bd_4d37_9b5a_4c89f8928ff7_031dd90431.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6623_31b18e98_d2bd_4d37_9b5a_4c89f8928ff7_031dd90431.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:01.000Z",
+  "updated_at": "2022-03-16T07:02:01.000Z"
+  }
+  },
+  {
+  "text": "<span>\n(L-R) Victoria La Mala and Lupita Infante attend the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6661_5513ca8c-b037-4044-9337-1913021a1a5a.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6661_5513ca8c-b037-4044-9337-1913021a1a5a.jpg",
+  "hash": "thumbnail_latin22_JO_1_6661_5513ca8c_b037_4044_9337_1913021a1a5a_b3069898c8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 10.37,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6661_5513ca8c_b037_4044_9337_1913021a1a5a_b3069898c8.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO1_6661_5513ca8c-b037-4044-9337-1913021a1a5a.jpg",
+  "hash": "large_latin22_JO_1_6661_5513ca8c_b037_4044_9337_1913021a1a5a_b3069898c8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 126.46,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_1_6661_5513ca8c_b037_4044_9337_1913021a1a5a_b3069898c8.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6661_5513ca8c-b037-4044-9337-1913021a1a5a.jpg",
+  "hash": "medium_latin22_JO_1_6661_5513ca8c_b037_4044_9337_1913021a1a5a_b3069898c8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 79.73,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6661_5513ca8c_b037_4044_9337_1913021a1a5a_b3069898c8.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6661_5513ca8c-b037-4044-9337-1913021a1a5a.jpg",
+  "hash": "small_latin22_JO_1_6661_5513ca8c_b037_4044_9337_1913021a1a5a_b3069898c8",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 38.35,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6661_5513ca8c_b037_4044_9337_1913021a1a5a_b3069898c8.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6661_5513ca8c_b037_4044_9337_1913021a1a5a_b3069898c8.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:01:59.000Z",
+  "updated_at": "2022-03-16T07:02:00.000Z"
+  }
+  },
+  {
+  "text": "<span>\n(L-R) Freddy Neo and Phantom Neo of Súbelo Neo attend the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6858_876d1245-686b-491b-a1b1-5f4b95607697.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6858_876d1245-686b-491b-a1b1-5f4b95607697.jpg",
+  "hash": "thumbnail_latin22_JO_1_6858_876d1245_686b_491b_a1b1_5f4b95607697_54a52a4bbe",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 10.52,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6858_876d1245_686b_491b_a1b1_5f4b95607697_54a52a4bbe.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO1_6858_876d1245-686b-491b-a1b1-5f4b95607697.jpg",
+  "hash": "large_latin22_JO_1_6858_876d1245_686b_491b_a1b1_5f4b95607697_54a52a4bbe",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 111.91,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_1_6858_876d1245_686b_491b_a1b1_5f4b95607697_54a52a4bbe.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6858_876d1245-686b-491b-a1b1-5f4b95607697.jpg",
+  "hash": "medium_latin22_JO_1_6858_876d1245_686b_491b_a1b1_5f4b95607697_54a52a4bbe",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 72.82,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6858_876d1245_686b_491b_a1b1_5f4b95607697_54a52a4bbe.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6858_876d1245-686b-491b-a1b1-5f4b95607697.jpg",
+  "hash": "small_latin22_JO_1_6858_876d1245_686b_491b_a1b1_5f4b95607697_54a52a4bbe",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 36.65,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6858_876d1245_686b_491b_a1b1_5f4b95607697_54a52a4bbe.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6858_876d1245_686b_491b_a1b1_5f4b95607697_54a52a4bbe.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:00.000Z",
+  "updated_at": "2022-03-16T07:02:00.000Z"
+  }
+  },
+  {
+  "text": "<span>\n(L-R) Wisin and Yandel attend the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n\n</span>",
+  "image": {
+  "name": "latin22_JO1_6531_52e31b33-5bd6-4866-a5e9-c00dc0c1b6cc.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6531_52e31b33-5bd6-4866-a5e9-c00dc0c1b6cc.jpg",
+  "hash": "thumbnail_latin22_JO_1_6531_52e31b33_5bd6_4866_a5e9_c00dc0c1b6cc_872894208b",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 9.35,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6531_52e31b33_5bd6_4866_a5e9_c00dc0c1b6cc_872894208b.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO1_6531_52e31b33-5bd6-4866-a5e9-c00dc0c1b6cc.jpg",
+  "hash": "large_latin22_JO_1_6531_52e31b33_5bd6_4866_a5e9_c00dc0c1b6cc_872894208b",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 88.12,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_1_6531_52e31b33_5bd6_4866_a5e9_c00dc0c1b6cc_872894208b.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6531_52e31b33-5bd6-4866-a5e9-c00dc0c1b6cc.jpg",
+  "hash": "medium_latin22_JO_1_6531_52e31b33_5bd6_4866_a5e9_c00dc0c1b6cc_872894208b",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 57.34,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6531_52e31b33_5bd6_4866_a5e9_c00dc0c1b6cc_872894208b.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6531_52e31b33-5bd6-4866-a5e9-c00dc0c1b6cc.jpg",
+  "hash": "small_latin22_JO_1_6531_52e31b33_5bd6_4866_a5e9_c00dc0c1b6cc_872894208b",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 29.62,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6531_52e31b33_5bd6_4866_a5e9_c00dc0c1b6cc_872894208b.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6531_52e31b33_5bd6_4866_a5e9_c00dc0c1b6cc_872894208b.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:00.000Z",
+  "updated_at": "2022-03-16T07:02:00.000Z"
+  }
+  },
+  {
+  "text": "<span>\nTaboo and apl.de.ap seen during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO3_6734_83453dcf-a77b-4d34-a3e2-afe3f0196c46.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO3_6734_83453dcf-a77b-4d34-a3e2-afe3f0196c46.jpg",
+  "hash": "thumbnail_latin22_JO_3_6734_83453dcf_a77b_4d34_a3e2_afe3f0196c46_961a2dfaa6",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 8.68,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_3_6734_83453dcf_a77b_4d34_a3e2_afe3f0196c46_961a2dfaa6.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO3_6734_83453dcf-a77b-4d34-a3e2-afe3f0196c46.jpg",
+  "hash": "large_latin22_JO_3_6734_83453dcf_a77b_4d34_a3e2_afe3f0196c46_961a2dfaa6",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 72.32,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_3_6734_83453dcf_a77b_4d34_a3e2_afe3f0196c46_961a2dfaa6.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO3_6734_83453dcf-a77b-4d34-a3e2-afe3f0196c46.jpg",
+  "hash": "medium_latin22_JO_3_6734_83453dcf_a77b_4d34_a3e2_afe3f0196c46_961a2dfaa6",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 47.28,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_3_6734_83453dcf_a77b_4d34_a3e2_afe3f0196c46_961a2dfaa6.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO3_6734_83453dcf-a77b-4d34-a3e2-afe3f0196c46.jpg",
+  "hash": "small_latin22_JO_3_6734_83453dcf_a77b_4d34_a3e2_afe3f0196c46_961a2dfaa6",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 25.64,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_3_6734_83453dcf_a77b_4d34_a3e2_afe3f0196c46_961a2dfaa6.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_3_6734_83453dcf_a77b_4d34_a3e2_afe3f0196c46_961a2dfaa6.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:00.000Z",
+  "updated_at": "2022-03-16T07:02:00.000Z"
+  }
+  },
+  {
+  "text": "<span>\nTainy is seen during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images)\n</span>",
+  "image": {
+  "name": "latin22_JO3_6954_1f8ddb8c-1c64-463d-aa61-679b1add5940.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO3_6954_1f8ddb8c-1c64-463d-aa61-679b1add5940.jpg",
+  "hash": "thumbnail_latin22_JO_3_6954_1f8ddb8c_1c64_463d_aa61_679b1add5940_2662ac13a5",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 5.91,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_3_6954_1f8ddb8c_1c64_463d_aa61_679b1add5940_2662ac13a5.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO3_6954_1f8ddb8c-1c64-463d-aa61-679b1add5940.jpg",
+  "hash": "large_latin22_JO_3_6954_1f8ddb8c_1c64_463d_aa61_679b1add5940_2662ac13a5",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 54.69,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_3_6954_1f8ddb8c_1c64_463d_aa61_679b1add5940_2662ac13a5.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO3_6954_1f8ddb8c-1c64-463d-aa61-679b1add5940.jpg",
+  "hash": "medium_latin22_JO_3_6954_1f8ddb8c_1c64_463d_aa61_679b1add5940_2662ac13a5",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 35.37,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_3_6954_1f8ddb8c_1c64_463d_aa61_679b1add5940_2662ac13a5.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO3_6954_1f8ddb8c-1c64-463d-aa61-679b1add5940.jpg",
+  "hash": "small_latin22_JO_3_6954_1f8ddb8c_1c64_463d_aa61_679b1add5940_2662ac13a5",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 18.23,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_3_6954_1f8ddb8c_1c64_463d_aa61_679b1add5940_2662ac13a5.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_3_6954_1f8ddb8c_1c64_463d_aa61_679b1add5940_2662ac13a5.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:00.000Z",
+  "updated_at": "2022-03-16T07:02:00.000Z"
+  }
+  },
+  {
+  "text": "<span>\nKeith Nieto attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6419_8bfc6625-e9db-41e0-97ea-967bcc396ffa.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 533,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6419_8bfc6625-e9db-41e0-97ea-967bcc396ffa.jpg",
+  "hash": "thumbnail_latin22_JO_1_6419_8bfc6625_e9db_41e0_97ea_967bcc396ffa_5976ba816c",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 104,
+  "height": 156,
+  "size": 5.52,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6419_8bfc6625_e9db_41e0_97ea_967bcc396ffa_5976ba816c.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6419_8bfc6625-e9db-41e0-97ea-967bcc396ffa.jpg",
+  "hash": "medium_latin22_JO_1_6419_8bfc6625_e9db_41e0_97ea_967bcc396ffa_5976ba816c",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 750,
+  "size": 58.54,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6419_8bfc6625_e9db_41e0_97ea_967bcc396ffa_5976ba816c.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6419_8bfc6625-e9db-41e0-97ea-967bcc396ffa.jpg",
+  "hash": "small_latin22_JO_1_6419_8bfc6625_e9db_41e0_97ea_967bcc396ffa_5976ba816c",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 333,
+  "height": 500,
+  "size": 31.79,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6419_8bfc6625_e9db_41e0_97ea_967bcc396ffa_5976ba816c.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6419_8bfc6625_e9db_41e0_97ea_967bcc396ffa_5976ba816c.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:01:59.000Z",
+  "updated_at": "2022-03-16T07:01:59.000Z"
+  }
+  },
+  {
+  "text": "<span>\nCarlos Rafael Rivera attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6430_db18beb3-8334-421c-b9b6-f708ba0a2fb0.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 558,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6430_db18beb3-8334-421c-b9b6-f708ba0a2fb0.jpg",
+  "hash": "thumbnail_latin22_JO_1_6430_db18beb3_8334_421c_b9b6_f708ba0a2fb0_e58a67fea3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 109,
+  "height": 156,
+  "size": 4.35,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6430_db18beb3_8334_421c_b9b6_f708ba0a2fb0_e58a67fea3.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6430_db18beb3-8334-421c-b9b6-f708ba0a2fb0.jpg",
+  "hash": "medium_latin22_JO_1_6430_db18beb3_8334_421c_b9b6_f708ba0a2fb0_e58a67fea3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 523,
+  "height": 750,
+  "size": 40.03,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6430_db18beb3_8334_421c_b9b6_f708ba0a2fb0_e58a67fea3.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6430_db18beb3-8334-421c-b9b6-f708ba0a2fb0.jpg",
+  "hash": "small_latin22_JO_1_6430_db18beb3_8334_421c_b9b6_f708ba0a2fb0_e58a67fea3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 349,
+  "height": 500,
+  "size": 22.75,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6430_db18beb3_8334_421c_b9b6_f708ba0a2fb0_e58a67fea3.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6430_db18beb3_8334_421c_b9b6_f708ba0a2fb0_e58a67fea3.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:01:57.000Z",
+  "updated_at": "2022-03-16T07:01:57.000Z"
+  }
+  },
+  {
+  "text": "<span>\nCris Chil attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6314_65bb7250-a0cd-44fc-a398-21438a852186.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6314_65bb7250-a0cd-44fc-a398-21438a852186.jpg",
+  "hash": "thumbnail_latin22_JO_1_6314_65bb7250_a0cd_44fc_a398_21438a852186_f73cfc0dc1",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 8.16,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6314_65bb7250_a0cd_44fc_a398_21438a852186_f73cfc0dc1.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO1_6314_65bb7250-a0cd-44fc-a398-21438a852186.jpg",
+  "hash": "large_latin22_JO_1_6314_65bb7250_a0cd_44fc_a398_21438a852186_f73cfc0dc1",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 74.07,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_1_6314_65bb7250_a0cd_44fc_a398_21438a852186_f73cfc0dc1.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6314_65bb7250-a0cd-44fc-a398-21438a852186.jpg",
+  "hash": "medium_latin22_JO_1_6314_65bb7250_a0cd_44fc_a398_21438a852186_f73cfc0dc1",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 48.99,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6314_65bb7250_a0cd_44fc_a398_21438a852186_f73cfc0dc1.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6314_65bb7250-a0cd-44fc-a398-21438a852186.jpg",
+  "hash": "small_latin22_JO_1_6314_65bb7250_a0cd_44fc_a398_21438a852186_f73cfc0dc1",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 25.61,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6314_65bb7250_a0cd_44fc_a398_21438a852186_f73cfc0dc1.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6314_65bb7250_a0cd_44fc_a398_21438a852186_f73cfc0dc1.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:01:57.000Z",
+  "updated_at": "2022-03-16T07:01:57.000Z"
+  }
+  },
+  {
+  "text": "<span>\n(L-R) BMI President & CEO Mike O'Neill and Tainy attend the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6483_f533c800-c677-4671-8dfb-5866e1b41024.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6483_f533c800-c677-4671-8dfb-5866e1b41024.jpg",
+  "hash": "thumbnail_latin22_JO_1_6483_f533c800_c677_4671_8dfb_5866e1b41024_eb71bb2642",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 8.16,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6483_f533c800_c677_4671_8dfb_5866e1b41024_eb71bb2642.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO1_6483_f533c800-c677-4671-8dfb-5866e1b41024.jpg",
+  "hash": "large_latin22_JO_1_6483_f533c800_c677_4671_8dfb_5866e1b41024_eb71bb2642",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 76.47,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_1_6483_f533c800_c677_4671_8dfb_5866e1b41024_eb71bb2642.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6483_f533c800-c677-4671-8dfb-5866e1b41024.jpg",
+  "hash": "medium_latin22_JO_1_6483_f533c800_c677_4671_8dfb_5866e1b41024_eb71bb2642",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 49.67,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6483_f533c800_c677_4671_8dfb_5866e1b41024_eb71bb2642.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6483_f533c800-c677-4671-8dfb-5866e1b41024.jpg",
+  "hash": "small_latin22_JO_1_6483_f533c800_c677_4671_8dfb_5866e1b41024_eb71bb2642",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 25.46,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6483_f533c800_c677_4671_8dfb_5866e1b41024_eb71bb2642.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6483_f533c800_c677_4671_8dfb_5866e1b41024_eb71bb2642.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:01:57.000Z",
+  "updated_at": "2022-03-16T07:01:57.000Z"
+  }
+  },
+  {
+  "text": "<span>\n Lupita Infante attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6476_c9ec1e13-ab34-47e7-801d-d6cb1f078b9d.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6476_c9ec1e13-ab34-47e7-801d-d6cb1f078b9d.jpg",
+  "hash": "thumbnail_latin22_JO_1_6476_c9ec1e13_ab34_47e7_801d_d6cb1f078b9d_3777fbdc1a",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 8.76,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6476_c9ec1e13_ab34_47e7_801d_d6cb1f078b9d_3777fbdc1a.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO1_6476_c9ec1e13-ab34-47e7-801d-d6cb1f078b9d.jpg",
+  "hash": "large_latin22_JO_1_6476_c9ec1e13_ab34_47e7_801d_d6cb1f078b9d_3777fbdc1a",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 91.72,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_1_6476_c9ec1e13_ab34_47e7_801d_d6cb1f078b9d_3777fbdc1a.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6476_c9ec1e13-ab34-47e7-801d-d6cb1f078b9d.jpg",
+  "hash": "medium_latin22_JO_1_6476_c9ec1e13_ab34_47e7_801d_d6cb1f078b9d_3777fbdc1a",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 57.76,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6476_c9ec1e13_ab34_47e7_801d_d6cb1f078b9d_3777fbdc1a.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6476_c9ec1e13-ab34-47e7-801d-d6cb1f078b9d.jpg",
+  "hash": "small_latin22_JO_1_6476_c9ec1e13_ab34_47e7_801d_d6cb1f078b9d_3777fbdc1a",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 28.29,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6476_c9ec1e13_ab34_47e7_801d_d6cb1f078b9d_3777fbdc1a.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6476_c9ec1e13_ab34_47e7_801d_d6cb1f078b9d_3777fbdc1a.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:01:57.000Z",
+  "updated_at": "2022-03-16T07:01:57.000Z"
+  }
+  },
+  {
+  "text": "<span>\nBMI VP of Creative, Latin Jesus Gonzalez, Wisin, BMI SVP of Creative Alex Flores, and Yandel attend the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_JO1_6535_6b0ebb92-541d-4c4c-9c17-cccd90d36a86.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_JO1_6535_6b0ebb92-541d-4c4c-9c17-cccd90d36a86.jpg",
+  "hash": "thumbnail_latin22_JO_1_6535_6b0ebb92_541d_4c4c_9c17_cccd90d36a86_17eb8749d5",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 10.18,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_JO_1_6535_6b0ebb92_541d_4c4c_9c17_cccd90d36a86_17eb8749d5.jpg"
+  },
+  "large": {
+  "name": "large_latin22_JO1_6535_6b0ebb92-541d-4c4c-9c17-cccd90d36a86.jpg",
+  "hash": "large_latin22_JO_1_6535_6b0ebb92_541d_4c4c_9c17_cccd90d36a86_17eb8749d5",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 95.12,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_JO_1_6535_6b0ebb92_541d_4c4c_9c17_cccd90d36a86_17eb8749d5.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_JO1_6535_6b0ebb92-541d-4c4c-9c17-cccd90d36a86.jpg",
+  "hash": "medium_latin22_JO_1_6535_6b0ebb92_541d_4c4c_9c17_cccd90d36a86_17eb8749d5",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 61.26,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_JO_1_6535_6b0ebb92_541d_4c4c_9c17_cccd90d36a86_17eb8749d5.jpg"
+  },
+  "small": {
+  "name": "small_latin22_JO1_6535_6b0ebb92-541d-4c4c-9c17-cccd90d36a86.jpg",
+  "hash": "small_latin22_JO_1_6535_6b0ebb92_541d_4c4c_9c17_cccd90d36a86_17eb8749d5",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 31.93,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_JO_1_6535_6b0ebb92_541d_4c4c_9c17_cccd90d36a86_17eb8749d5.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_JO_1_6535_6b0ebb92_541d_4c4c_9c17_cccd90d36a86_17eb8749d5.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:01:57.000Z",
+  "updated_at": "2022-03-16T07:01:57.000Z"
+  }
+  },
+  {
+  "text": "<span>\nWisin is seen during the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022 in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI)\n</span>",
+  "image": {
+  "name": "latin22_LC5_5794_50530037-16f0-4ecb-a842-d00030595175.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_latin22_LC5_5794_50530037-16f0-4ecb-a842-d00030595175.jpg",
+  "hash": "thumbnail_latin22_LC_5_5794_50530037_16f0_4ecb_a842_d00030595175_c775d8be2e",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 9.58,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_latin22_LC_5_5794_50530037_16f0_4ecb_a842_d00030595175_c775d8be2e.jpg"
+  },
+  "large": {
+  "name": "large_latin22_LC5_5794_50530037-16f0-4ecb-a842-d00030595175.jpg",
+  "hash": "large_latin22_LC_5_5794_50530037_16f0_4ecb_a842_d00030595175_c775d8be2e",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 99.38,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_latin22_LC_5_5794_50530037_16f0_4ecb_a842_d00030595175_c775d8be2e.jpg"
+  },
+  "medium": {
+  "name": "medium_latin22_LC5_5794_50530037-16f0-4ecb-a842-d00030595175.jpg",
+  "hash": "medium_latin22_LC_5_5794_50530037_16f0_4ecb_a842_d00030595175_c775d8be2e",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 64.18,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_latin22_LC_5_5794_50530037_16f0_4ecb_a842_d00030595175_c775d8be2e.jpg"
+  },
+  "small": {
+  "name": "small_latin22_LC5_5794_50530037-16f0-4ecb-a842-d00030595175.jpg",
+  "hash": "small_latin22_LC_5_5794_50530037_16f0_4ecb_a842_d00030595175_c775d8be2e",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 32.29,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_latin22_LC_5_5794_50530037_16f0_4ecb_a842_d00030595175_c775d8be2e.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/latin22_LC_5_5794_50530037_16f0_4ecb_a842_d00030595175_c775d8be2e.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 1,
+  "updated_by": 1,
+  "created_at": "2022-03-16T07:02:08.000Z",
+  "updated_at": "2022-03-16T07:21:57.000Z"
+  }
+  },
+  {
+  "text": "<span>\nL to R: BMI VP of Creative, Latin Jesus Gonzalez, Sony Music Publishing Latin America & U.S. Latin president/CEO Jorge Mejía, Tainy, BMI’s Mary Russe and Monica Jordan at the 2022 BMI Latin Awards held on March 15, 2022, at the Beverly Wilshire in Beverly Hills, CA. (Photo by Lester Cohen/Getty Images for BMI).\n</span>",
+  "image": {
+  "name": "LC5_5605_105a2182-2403-4b05-b52e-c7016178b2c9.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_LC5_5605_105a2182-2403-4b05-b52e-c7016178b2c9.jpg",
+  "hash": "thumbnail_LC_5_5605_105a2182_2403_4b05_b52e_c7016178b2c9_2df626c4fa",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 7.69,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_LC_5_5605_105a2182_2403_4b05_b52e_c7016178b2c9_2df626c4fa.jpg"
+  },
+  "large": {
+  "name": "large_LC5_5605_105a2182-2403-4b05-b52e-c7016178b2c9.jpg",
+  "hash": "large_LC_5_5605_105a2182_2403_4b05_b52e_c7016178b2c9_2df626c4fa",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 85.76,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_LC_5_5605_105a2182_2403_4b05_b52e_c7016178b2c9_2df626c4fa.jpg"
+  },
+  "medium": {
+  "name": "medium_LC5_5605_105a2182-2403-4b05-b52e-c7016178b2c9.jpg",
+  "hash": "medium_LC_5_5605_105a2182_2403_4b05_b52e_c7016178b2c9_2df626c4fa",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 53.9,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_LC_5_5605_105a2182_2403_4b05_b52e_c7016178b2c9_2df626c4fa.jpg"
+  },
+  "small": {
+  "name": "small_LC5_5605_105a2182-2403-4b05-b52e-c7016178b2c9.jpg",
+  "hash": "small_LC_5_5605_105a2182_2403_4b05_b52e_c7016178b2c9_2df626c4fa",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 26.81,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_LC_5_5605_105a2182_2403_4b05_b52e_c7016178b2c9_2df626c4fa.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/LC_5_5605_105a2182_2403_4b05_b52e_c7016178b2c9_2df626c4fa.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 2,
+  "updated_by": 2,
+  "created_at": "2022-03-22T15:26:50.000Z",
+  "updated_at": "2022-03-22T15:26:50.000Z"
+  }
+  },
+  {
+  "text": "<span>\nL to R: BMI SVP, Creative Alex Flores, BMI President & CEO Mike O’Neill, Omar Tarazon, BMI’s Teresa Romo and BMI VP, Creative-Latin Jesus Gonzalez at the 2022 BMI Latin Awards held at the Beverly Wilshire on March 15, 2022, in Beverly Hills, CA. (Photo by Lester Cohen/Getty Images for BMI).\n</span>",
+  "image": {
+  "name": "LC5_5054_7044a972-9cd7-4c32-b2c4-feb3142243b7.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_LC5_5054_7044a972-9cd7-4c32-b2c4-feb3142243b7.jpg",
+  "hash": "thumbnail_LC_5_5054_7044a972_9cd7_4c32_b2c4_feb3142243b7_d37c59f7f7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 10.42,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_LC_5_5054_7044a972_9cd7_4c32_b2c4_feb3142243b7_d37c59f7f7.jpg"
+  },
+  "large": {
+  "name": "large_LC5_5054_7044a972-9cd7-4c32-b2c4-feb3142243b7.jpg",
+  "hash": "large_LC_5_5054_7044a972_9cd7_4c32_b2c4_feb3142243b7_d37c59f7f7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 95.21,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_LC_5_5054_7044a972_9cd7_4c32_b2c4_feb3142243b7_d37c59f7f7.jpg"
+  },
+  "medium": {
+  "name": "medium_LC5_5054_7044a972-9cd7-4c32-b2c4-feb3142243b7.jpg",
+  "hash": "medium_LC_5_5054_7044a972_9cd7_4c32_b2c4_feb3142243b7_d37c59f7f7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 62.55,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_LC_5_5054_7044a972_9cd7_4c32_b2c4_feb3142243b7_d37c59f7f7.jpg"
+  },
+  "small": {
+  "name": "small_LC5_5054_7044a972-9cd7-4c32-b2c4-feb3142243b7.jpg",
+  "hash": "small_LC_5_5054_7044a972_9cd7_4c32_b2c4_feb3142243b7_d37c59f7f7",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 32.31,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_LC_5_5054_7044a972_9cd7_4c32_b2c4_feb3142243b7_d37c59f7f7.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/LC_5_5054_7044a972_9cd7_4c32_b2c4_feb3142243b7_d37c59f7f7.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 2,
+  "updated_by": 2,
+  "created_at": "2022-03-22T15:28:41.000Z",
+  "updated_at": "2022-03-22T15:28:41.000Z"
+  }
+  },
+  {
+  "text": "<span>\nL to R: Keriel “K4G” Quiroz, Eduardo Antonio Fernandez “CRBRO” and Ghetto attend the 2022 BMI Latin Awards at the Beverly Wilshire on March 15, 2022, in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI).\n</span>",
+  "image": {
+  "name": "LC5_5160_36b4d75f-18d7-4892-b795-1dece1c9191b.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_LC5_5160_36b4d75f-18d7-4892-b795-1dece1c9191b.jpg",
+  "hash": "thumbnail_LC_5_5160_36b4d75f_18d7_4892_b795_1dece1c9191b_408de9601b",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 9.24,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_LC_5_5160_36b4d75f_18d7_4892_b795_1dece1c9191b_408de9601b.jpg"
+  },
+  "large": {
+  "name": "large_LC5_5160_36b4d75f-18d7-4892-b795-1dece1c9191b.jpg",
+  "hash": "large_LC_5_5160_36b4d75f_18d7_4892_b795_1dece1c9191b_408de9601b",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 84.1,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_LC_5_5160_36b4d75f_18d7_4892_b795_1dece1c9191b_408de9601b.jpg"
+  },
+  "medium": {
+  "name": "medium_LC5_5160_36b4d75f-18d7-4892-b795-1dece1c9191b.jpg",
+  "hash": "medium_LC_5_5160_36b4d75f_18d7_4892_b795_1dece1c9191b_408de9601b",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 55.7,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_LC_5_5160_36b4d75f_18d7_4892_b795_1dece1c9191b_408de9601b.jpg"
+  },
+  "small": {
+  "name": "small_LC5_5160_36b4d75f-18d7-4892-b795-1dece1c9191b.jpg",
+  "hash": "small_LC_5_5160_36b4d75f_18d7_4892_b795_1dece1c9191b_408de9601b",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 29.2,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_LC_5_5160_36b4d75f_18d7_4892_b795_1dece1c9191b_408de9601b.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/LC_5_5160_36b4d75f_18d7_4892_b795_1dece1c9191b_408de9601b.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 2,
+  "updated_by": 2,
+  "created_at": "2022-03-22T15:30:03.000Z",
+  "updated_at": "2022-03-22T15:30:03.000Z"
+  }
+  },
+  {
+  "text": "<span>\nLenin Ramírez attends the 2022 BMI Latin Awards at Beverly Wilshire, A Four Seasons Hotel on March 15, 2022, in Beverly Hills, California. (Photo by Lester Cohen/Getty Images for BMI).\n</span>",
+  "image": {
+  "name": "LC5_5145_5361d068-03df-4060-ae5b-b8bb0a12cc18.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 533,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_LC5_5145_5361d068-03df-4060-ae5b-b8bb0a12cc18.jpg",
+  "hash": "thumbnail_LC_5_5145_5361d068_03df_4060_ae5b_b8bb0a12cc18_c82d6f6ca3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 104,
+  "height": 156,
+  "size": 4.13,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_LC_5_5145_5361d068_03df_4060_ae5b_b8bb0a12cc18_c82d6f6ca3.jpg"
+  },
+  "medium": {
+  "name": "medium_LC5_5145_5361d068-03df-4060-ae5b-b8bb0a12cc18.jpg",
+  "hash": "medium_LC_5_5145_5361d068_03df_4060_ae5b_b8bb0a12cc18_c82d6f6ca3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 750,
+  "size": 39.69,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_LC_5_5145_5361d068_03df_4060_ae5b_b8bb0a12cc18_c82d6f6ca3.jpg"
+  },
+  "small": {
+  "name": "small_LC5_5145_5361d068-03df-4060-ae5b-b8bb0a12cc18.jpg",
+  "hash": "small_LC_5_5145_5361d068_03df_4060_ae5b_b8bb0a12cc18_c82d6f6ca3",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 333,
+  "height": 500,
+  "size": 22.66,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_LC_5_5145_5361d068_03df_4060_ae5b_b8bb0a12cc18_c82d6f6ca3.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/LC_5_5145_5361d068_03df_4060_ae5b_b8bb0a12cc18_c82d6f6ca3.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 2,
+  "updated_by": 2,
+  "created_at": "2022-03-22T15:33:07.000Z",
+  "updated_at": "2022-03-22T15:33:07.000Z"
+  }
+  },
+  {
+  "text": "<span>\nL to R: Alison Solís and Marla Solís attend the 2022 BMI Latin Awards at Beverly Wilshire on March 15, 2022, in Beverly Hills, California. (Photo by JC Olivera/Getty Images for BMI).\n</span>",
+  "image": {
+  "name": "JO1_6384_ffc957e0-e97e-42eb-966b-73dcc36cc900.jpg",
+  "alternativeText": "",
+  "caption": "",
+  "width": 1200,
+  "height": 800,
+  "formats": {
+  "thumbnail": {
+  "name": "thumbnail_JO1_6384_ffc957e0-e97e-42eb-966b-73dcc36cc900.jpg",
+  "hash": "thumbnail_JO_1_6384_ffc957e0_e97e_42eb_966b_73dcc36cc900_ebc9c60577",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 234,
+  "height": 156,
+  "size": 9.44,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/thumbnail_JO_1_6384_ffc957e0_e97e_42eb_966b_73dcc36cc900_ebc9c60577.jpg"
+  },
+  "large": {
+  "name": "large_JO1_6384_ffc957e0-e97e-42eb-966b-73dcc36cc900.jpg",
+  "hash": "large_JO_1_6384_ffc957e0_e97e_42eb_966b_73dcc36cc900_ebc9c60577",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 1000,
+  "height": 667,
+  "size": 93.99,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/large_JO_1_6384_ffc957e0_e97e_42eb_966b_73dcc36cc900_ebc9c60577.jpg"
+  },
+  "medium": {
+  "name": "medium_JO1_6384_ffc957e0-e97e-42eb-966b-73dcc36cc900.jpg",
+  "hash": "medium_JO_1_6384_ffc957e0_e97e_42eb_966b_73dcc36cc900_ebc9c60577",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 750,
+  "height": 500,
+  "size": 60.97,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/medium_JO_1_6384_ffc957e0_e97e_42eb_966b_73dcc36cc900_ebc9c60577.jpg"
+  },
+  "small": {
+  "name": "small_JO1_6384_ffc957e0-e97e-42eb-966b-73dcc36cc900.jpg",
+  "hash": "small_JO_1_6384_ffc957e0_e97e_42eb_966b_73dcc36cc900_ebc9c60577",
+  "ext": ".jpg",
+  "mime": "image/jpeg",
+  "width": 500,
+  "height": 333,
+  "size": 30.92,
+  "path": null,
+  "url": "https://cdn.bcms.app/uploads/small_JO_1_6384_ffc957e0_e97e_42eb_966b_73dcc36cc900_ebc9c60577.jpg"
+  }
+  },
+  "url": "https://cdn.bcms.app/uploads/JO_1_6384_ffc957e0_e97e_42eb_966b_73dcc36cc900_ebc9c60577.jpg",
+  "previewUrl": null,
+  "provider_metadata": null,
+  "created_by": 2,
+  "updated_by": 2,
+  "created_at": "2022-03-22T15:34:59.000Z",
+  "updated_at": "2022-03-22T15:34:59.000Z"
+  }
+  }
+  ]
+  }
+  ]
+  }
