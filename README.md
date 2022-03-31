@@ -1,9 +1,24 @@
 # Gallery Application
 
-This application houses the special photography for Award Show attendees made available after the event. It is like a template that can be retrofitted to each Award Show in particular.
+This application houses the special photography for Award Show attendees made available after the event. It is like a template that can be retrofitted to take the content and style of each Award Show in particular. 
+
+The Gallery Application uses a popular presentation style used by Pinterest and Google Photos called Masonry https://masonry.desandro.com/. It employs a justified grid algorithm discussed here https://medium.com/google-design/google-photos-45b714dfbed1, and is a handsome way to present photographs these days. In other words, it is a _user affordance_. 
+
+Photos are presented in collections. And can be individually viewed in a Lightbox. When viewed in Lightbox, photos can be scrolled left or right via a Carousel. They can be saved and shared as expected of images on any typical website. 
+
+## Features
+- Good UX meets expectations of modern photo gallery like Pinterest, Google 
+- Uses Masonry justified grid
+- Simple to use and maintain by mid-level Developer
+- Matches style and logo of current Award Show
+- Has (zoom) Lightbox and 
+- Scrollable Carousel
+- Has very few dependencies
+- Options include set by row or column, and draggable
+- Users can save and share via native OS methods
 
 ## Assumptions
-Basic JavaScript ES6, Node, SASS, Linux. Familiarity with a code editor and Terminal. 
+Mid-level development skills. Basic JavaScript ES6, Node, SASS, Linux. Familiarity with a code editor and Terminal. 
 
 This app requires code to run. It does not have a GUI. But that's ok 'cause we are Developers and it's not terribly hard.
 
@@ -17,7 +32,7 @@ The Gallery Application parses JSON from the Strapi CMS (specific to an Award Sh
 
 NOTE: The logo URL and `background` must be copied from the particular Award Show. 
 
-In order to run the localhost, `cd` to the root directory, and type `yarn start`. This will run nodemon and will reload the server on each save.
+In order to run the localhost, `cd` to the root directory, and type `yarn start`. This will run nodemon and will reload the server on each save. It will run on `localhost:3000`. (If converted to an Express application in order to use the Web API, it will then run on port 5000).
 
 In order to run the parser, you must have access to the Strapi JSON file with the selected images from the Award Show. File prep is done in the node directory. The application is rendered in the src folder. 
 
@@ -29,12 +44,21 @@ In order to run the parser, you must have access to the Strapi JSON file with th
 
 This will populate a file in the src with the JavaScript Object Notation the application needs to perform its magic.
 
+## Options
+One can set the Gallery to present photographs along either columns or rows. It is currently set to rows. There is also an option to make the images _draggable_. A justification for using this feature is it makes the collections more _interactive_. This can be valuable for interest retention for **retargeting**.
+
+- Rows or columns
+- Draggable
+
+## Requirements
+In order for it to run, photos must have a url, title, width, and height. Users can use native browser or operating system methods to view in Lightbox, save, and share.
+
 ## Roadmap
 Right now, one has to manually copy the correct JSON file, write the target in JavaScript in node/parser.js on line 5, and state the destination file(s) on line 16, then type a node command. 
 
 This can be further automated by: 
 - Writing multiple targeting statements in parser.js as promises, requiring only one run command
-- Creating an Express wrapper to run a Fetch API for the JSON
+- Creating an Express wrapper to run a Fetch API for the JSON https://expressjs.com/
 - Carry over SASS descriptions from SASS project
 
 ## Dependencies
@@ -48,12 +72,12 @@ Because the app is running on the Heroku runtime, it fires the build commands so
 
 ***
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). See below for details about using Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). See below for details about using Create React App (which is the wrapper of this app) for deployment purposes.
 
 ## Create React App 
 Available Scripts. In the project directory, you can run:
 
-### `npm start` or `yarn start`
+### `npm start` or `yarn start` etc.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
