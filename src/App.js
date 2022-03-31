@@ -1,6 +1,7 @@
 // import './App.scss';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import './App.css';
+import './App.scss';
 import Footer from './Footer';
 import Grid from './Grid';
 import Header from './Header';
