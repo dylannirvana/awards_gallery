@@ -53,11 +53,12 @@ One can set the Gallery to present photographs along either columns or rows. It 
 ## Requirements
 In order for it to run, photos must have a url, title, width, and height. Users can use native browser or operating system methods to view in Lightbox, save, and share.
 
-## Roadmap
-Right now, one has to manually copy the correct JSON file, write the target in JavaScript in node/parser.js on line 5, and state the destination file(s) on line 16, then type a node command. 
+## Deployment
+The app can be attached as a 
 
-This can be further automated by: 
-- Writing multiple targeting statements in parser.js as promises, requiring only one run command
+## Roadmap 
+- Use SASS app to simply import variables.scss to skin application
+- Write multiple targeting statements in parser.js as promises, requiring only one run command
 - Creating an Express wrapper to run a Fetch API for the JSON https://expressjs.com/
 - Carry over SASS descriptions from SASS project
 
