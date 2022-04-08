@@ -82,13 +82,28 @@
   color:beige;
 }
 
+// THIS IS FROM GOSPEL JUST TO GRAB THE CODE
+// background: #7b592e;
+// /* Old browsers */
+// background: -moz-linear-gradient(-45deg, #7b592e 0%, #93723f 33%, #e6cf97 66%, #eacd7a 100%);
+// /* FF3.6-15 */
+// background: -webkit-linear-gradient(-45deg, #7b592e 0%, #93723f 33%, #e6cf97 66%, #eacd7a 100%);
+// /* Chrome10-25,Safari5.1-6 */
+// background: linear-gradient(135deg, #7b592e 0%, #93723f 33%, #e6cf97 66%, #eacd7a 100%);
+// /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+// filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7b592e', endColorstr='#eacd7a',GradientType=1 );
+// /* IE6-9 fallback on horizontal gradient */
+
+
  .outerContainer {
-  background: linear-gradient(to bottom, #1a0f1f 0%, #280d3d 100%);
+  // background: linear-gradient(to bottom, #1a0f1f 0%, #280d3d 100%); // Latin
+  background-color: #000;
   padding: 20px;
 }
 
 .galleryContainer, .galleryContainer a {
-  background: linear-gradient(to bottom, #1a0f1f 0%, #280d3d 100%);
+  // background: linear-gradient(to bottom, #1a0f1f 0%, #280d3d 100%); // Latin
+  background-color: #000;
   color: beige;
   text-align: center;
   font-size: medium;

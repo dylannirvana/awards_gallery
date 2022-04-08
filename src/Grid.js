@@ -11,13 +11,13 @@ function Grid() {
   <Row>   
     <Col> 
       <div>
-        <h6>Awards</h6>
+        <h6>Planets</h6>
         <Link to="/planets"><img src="https://cdn.bcms.app/uploads/medium_awards1_a9ea1a3a7a.jpg" /></Link> 
       </div>
     </Col>
     <Col> 
       <div>
-        <h6>Performances</h6>
+        <h6>Moons</h6>
         <Link to="/moons"><img src="https://cdn.bcms.app/uploads/medium_performances1_e1b5f12e88.jpg" /></Link> 
       </div>
     </Col>

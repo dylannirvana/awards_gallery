@@ -1,7 +1,7 @@
 import React, { useState, useCallback } from "react";
 import Gallery from "react-photo-gallery";
 import Carousel, { Modal, ModalGateway } from "react-images";
-import { photos } from "./photos_moon";
+import { photos } from "./photos_moons";
 import { Link } from 'react-router-dom'
 import Footer from "./Footer";
 
